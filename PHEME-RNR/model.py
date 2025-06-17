@@ -57,8 +57,8 @@ def predict(text: str, model_type: str = "BERT", model_dir: str = "classificatio
     model_path = get_model_path(model_dir)
 
     if bert_tokenizer is None:
-        bert_tokenizer = BertTokenizer.from_pretrained(model_path)
-        bert_model = BertModel.from_pretrained("bert-base-uncased")
+        bert_tokenizer = BertTokenizer.from_pretrained(model_path, local_files_only=True)
+        bert_model = BertModel.from_pretrained("bert-base-uncased", local_files_only=True)
         bert_model.eval()
 
     if model_type == "BERT" and bert_classifier is None:
