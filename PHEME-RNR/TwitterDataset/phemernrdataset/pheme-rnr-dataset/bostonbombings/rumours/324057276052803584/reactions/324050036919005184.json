@@ -1,0 +1,105 @@
+{
+ "created_at": "Tue Apr 16 06:42:04 +0000 2013",
+ "id": 324050036919005184,
+ "id_str": "324050036919005184",
+ "full_text": "@Independent_ie So, so tragic!",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  30
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Independent_ie",
+    "name": "Independent.ie",
+    "id": 91334232,
+    "id_str": "91334232",
+    "indices": [
+     0,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324048574251937792,
+ "in_reply_to_status_id_str": "324048574251937792",
+ "in_reply_to_user_id": 91334232,
+ "in_reply_to_user_id_str": "91334232",
+ "in_reply_to_screen_name": "Independent_ie",
+ "user": {
+  "id": 376220172,
+  "id_str": "376220172",
+  "name": "Fast-FixIreland",
+  "screen_name": "FastFixIreland",
+  "location": "Dublin, Ireland",
+  "description": "Fast-Fix offers a same day repair service on all brands of watches, jewellery & eye glasses across our stores in St Stephen's Green, Dundrum, Tallaght & Swords.",
+  "url": "http://t.co/vXXQMAMghw",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/vXXQMAMghw",
+      "expanded_url": "http://www.facebook.com/FastfixIreland",
+      "display_url": "facebook.com/FastfixIreland",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 459,
+  "friends_count": 1866,
+  "listed_count": 2,
+  "created_at": "Mon Sep 19 14:26:34 +0000 2011",
+  "favourites_count": 447,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 513,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1550104752/Llogoblack_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1550104752/Llogoblack_normal.jpg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

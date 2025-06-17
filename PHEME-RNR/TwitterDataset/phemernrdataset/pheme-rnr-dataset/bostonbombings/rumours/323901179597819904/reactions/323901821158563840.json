@@ -1,0 +1,107 @@
+{
+ "created_at": "Mon Apr 15 20:53:06 +0000 2013",
+ "id": 323901821158563840,
+ "id_str": "323901821158563840",
+ "full_text": "@TraptInThe1800s the google one is those people who are just civillians watching",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  80
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Traptinthe1800s",
+    "name": "Cait",
+    "id": 17666256,
+    "id_str": "17666256",
+    "indices": [
+     0,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323901465179615234,
+ "in_reply_to_status_id_str": "323901465179615234",
+ "in_reply_to_user_id": 17666256,
+ "in_reply_to_user_id_str": "17666256",
+ "in_reply_to_screen_name": "Traptinthe1800s",
+ "user": {
+  "id": 17824188,
+  "id_str": "17824188",
+  "name": "Patricia",
+  "screen_name": "patriciareee",
+  "location": "Mississauga-Toronto, Ontario",
+  "description": "Just a Canadian trying to tweet her life and thoughts.  Audiophile. Social media enthusiast, loves exploring music & going to concerts. movie junkie.",
+  "url": "http://t.co/SDWC17EPyf",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/SDWC17EPyf",
+      "expanded_url": "http://patriciareee.tumblr.com/",
+      "display_url": "patriciareee.tumblr.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 302,
+  "friends_count": 196,
+  "listed_count": 29,
+  "created_at": "Wed Dec 03 00:59:58 +0000 2008",
+  "favourites_count": 290,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 17378,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "420808",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3299154292/67d6d267c4b543bfe3cf56ce051953ab_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3299154292/67d6d267c4b543bfe3cf56ce051953ab_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/17824188/1528642115",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "A30000",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "4D484D",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

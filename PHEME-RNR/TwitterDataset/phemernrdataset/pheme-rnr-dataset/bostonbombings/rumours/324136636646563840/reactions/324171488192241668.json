@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 14:44:40 +0000 2013",
+ "id": 324171488192241668,
+ "id_str": "324171488192241668",
+ "full_text": "@VG247 Hang on, if you trademark something it generally *is* the product name.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  78
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "VG247",
+    "name": "VG247",
+    "id": 20472850,
+    "id_str": "20472850",
+    "indices": [
+     0,
+     6
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+ "in_reply_to_status_id": 324127839895052288,
+ "in_reply_to_status_id_str": "324127839895052288",
+ "in_reply_to_user_id": 20472850,
+ "in_reply_to_user_id_str": "20472850",
+ "in_reply_to_screen_name": "VG247",
+ "user": {
+  "id": 20154288,
+  "id_str": "20154288",
+  "name": "Chris Thornett \u270d\ufe0f\ud83d\udc27",
+  "screen_name": "ChriThor",
+  "location": "Bath",
+  "description": "Technology content manager for @OnebiteComms, former ed of @LinuxUserMag and occasional writer for @TechRadarPro and @linuxformat. Here be opinions.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 915,
+  "friends_count": 1698,
+  "listed_count": 46,
+  "created_at": "Thu Feb 05 14:59:56 +0000 2009",
+  "favourites_count": 369,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 6291,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000505",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/874550293890990080/ntc75C8a_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/874550293890990080/ntc75C8a_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/20154288/1543103710",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "DDFFCC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

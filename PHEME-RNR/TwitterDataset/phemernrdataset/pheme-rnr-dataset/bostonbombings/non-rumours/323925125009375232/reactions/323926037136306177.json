@@ -1,0 +1,135 @@
+{
+ "created_at": "Mon Apr 15 22:29:20 +0000 2013",
+ "id": 323926037136306177,
+ "id_str": "323926037136306177",
+ "full_text": "@MattMira loved the day off from College... always feels more like spring... so many happy people about... #HappyBostonMemories",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  127
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "HappyBostonMemories",
+    "indices": [
+     107,
+     127
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "MattMira",
+    "name": "Matt Mira",
+    "id": 19430456,
+    "id_str": "19430456",
+    "indices": [
+     0,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323901634444922880,
+ "in_reply_to_status_id_str": "323901634444922880",
+ "in_reply_to_user_id": 19430456,
+ "in_reply_to_user_id_str": "19430456",
+ "in_reply_to_screen_name": "MattMira",
+ "user": {
+  "id": 13528282,
+  "id_str": "13528282",
+  "name": "Nancy Babyak",
+  "screen_name": "NBabyak",
+  "location": "Hudson, Ohio",
+  "description": "here... again",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 385,
+  "friends_count": 695,
+  "listed_count": 10,
+  "created_at": "Fri Feb 15 19:47:04 +0000 2008",
+  "favourites_count": 2413,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 12043,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "709397",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/459328527880290304/q2PBVmY6_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/459328527880290304/q2PBVmY6_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/13528282/1471273475",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0E0EC2",
+  "profile_sidebar_border_color": "CAE7F5",
+  "profile_sidebar_fill_color": "CAE7F5",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": {
+  "id": "fef01a8cb0eacb64",
+  "url": "https://api.twitter.com/1.1/geo/id/fef01a8cb0eacb64.json",
+  "place_type": "city",
+  "name": "Akron",
+  "full_name": "Akron, OH",
+  "country_code": "US",
+  "country": "United States",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      -81.628444,
+      40.995137
+     ],
+     [
+      -81.405059,
+      40.995137
+     ],
+     [
+      -81.405059,
+      41.166618
+     ],
+     [
+      -81.628444,
+      41.166618
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,139 @@
+{
+ "created_at": "Tue Apr 16 02:51:43 +0000 2013",
+ "id": 323992071071469568,
+ "id_str": "323992071071469568",
+ "full_text": "@lanadelmoney this isn't tumblr",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  31
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "lanadelmoney",
+    "name": "guardando user",
+    "id": 2169406268,
+    "id_str": "2169406268",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323486752125894656,
+ "in_reply_to_status_id_str": "323486752125894656",
+ "in_reply_to_user_id": 721808353,
+ "in_reply_to_user_id_str": "721808353",
+ "in_reply_to_screen_name": "iIIegrI",
+ "user": {
+  "id": 606764275,
+  "id_str": "606764275",
+  "name": "Carson Crockett",
+  "screen_name": "Squiggy867",
+  "location": "Omaha, NE",
+  "description": "UNO 2020",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 517,
+  "friends_count": 401,
+  "listed_count": 5,
+  "created_at": "Wed Jun 13 00:30:28 +0000 2012",
+  "favourites_count": 11499,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 17104,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1061869336896421889/_wAxD-0J_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061869336896421889/_wAxD-0J_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/606764275/1495158994",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "3B94D9",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   41.29543643,
+   -96.09579063
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   -96.09579063,
+   41.29543643
+  ]
+ },
+ "place": {
+  "id": "a84b808ce3f11719",
+  "url": "https://api.twitter.com/1.1/geo/id/a84b808ce3f11719.json",
+  "place_type": "city",
+  "name": "Omaha",
+  "full_name": "Omaha, NE",
+  "country_code": "US",
+  "country": "United States",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      -96.234587,
+      41.175884
+     ],
+     [
+      -95.872275,
+      41.175884
+     ],
+     [
+      -95.872275,
+      41.375558
+     ],
+     [
+      -96.234587,
+      41.375558
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

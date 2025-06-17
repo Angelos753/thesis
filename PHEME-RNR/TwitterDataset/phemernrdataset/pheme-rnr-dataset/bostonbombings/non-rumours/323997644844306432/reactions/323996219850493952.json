@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 03:08:13 +0000 2013",
+ "id": 323996219850493952,
+ "id_str": "323996219850493952",
+ "full_text": "@bjf1377 my favorite part too",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  29
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "bjf1377",
+    "name": "Brad Foster",
+    "id": 14756669,
+    "id_str": "14756669",
+    "indices": [
+     0,
+     8
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323993695043080192,
+ "in_reply_to_status_id_str": "323993695043080192",
+ "in_reply_to_user_id": 14756669,
+ "in_reply_to_user_id_str": "14756669",
+ "in_reply_to_screen_name": "bjf1377",
+ "user": {
+  "id": 22556871,
+  "id_str": "22556871",
+  "name": "The Fangirl Diaries",
+  "screen_name": "Cherryice1988",
+  "location": "Akron,OH",
+  "description": "Hyper, Loud, Blonde, and a Total Dork. Absolute Fangirl, basically tweeting about TV. Not everyone all at once please.",
+  "url": "https://t.co/z7MHG0xCDF",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/z7MHG0xCDF",
+      "expanded_url": "http://www.facebook.com/#!/profile.php?ref=profile&id=524936777",
+      "display_url": "facebook.com/#!/profile.php\u2026",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 385,
+  "friends_count": 747,
+  "listed_count": 17,
+  "created_at": "Tue Mar 03 00:08:49 +0000 2009",
+  "favourites_count": 2093,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 17137,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FF6699",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/513490951583846400/9YoK0Qm8_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/513490951583846400/9YoK0Qm8_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22556871/1508029187",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "B40B43",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 07:58:25 +0000 2013",
+ "id": 324069252132917248,
+ "id_str": "324069252132917248",
+ "full_text": "@Pomi_Love we beefin.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  21
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Pomi_Love",
+    "name": "King A",
+    "id": 308818421,
+    "id_str": "308818421",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324067546422726657,
+ "in_reply_to_status_id_str": "324067546422726657",
+ "in_reply_to_user_id": 308818421,
+ "in_reply_to_user_id_str": "308818421",
+ "in_reply_to_screen_name": "Pomi_Love",
+ "user": {
+  "id": 377193808,
+  "id_str": "377193808",
+  "name": "O'MurdaH \ud83d\ude08",
+  "screen_name": "OMurdahFINESSE",
+  "location": "Welcome 2 Da M\u00e4BB",
+  "description": "03.03.17 \ud83d\udc8d @saucymclovin #HTTR #RollTide",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1078,
+  "friends_count": 484,
+  "listed_count": 1,
+  "created_at": "Wed Sep 21 05:20:01 +0000 2011",
+  "favourites_count": 14630,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 122352,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1029780553657135105/5c-WItBD_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029780553657135105/5c-WItBD_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/377193808/1533929442",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "2FC2EF",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

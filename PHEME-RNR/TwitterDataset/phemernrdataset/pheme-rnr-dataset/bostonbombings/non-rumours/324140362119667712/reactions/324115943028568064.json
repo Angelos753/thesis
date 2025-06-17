@@ -1,0 +1,102 @@
+{
+ "created_at": "Tue Apr 16 11:03:57 +0000 2013",
+ "id": 324115943028568064,
+ "id_str": "324115943028568064",
+ "full_text": "\u201c@Ericthomasbtc: If you're doing it right, the journey should be fun, not stressful. #Success\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  94
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Success",
+    "indices": [
+     85,
+     93
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Ericthomasbtc",
+    "name": "Eric Thomas",
+    "id": 119068103,
+    "id_str": "119068103",
+    "indices": [
+     1,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324108056583602176,
+ "in_reply_to_status_id_str": "324108056583602176",
+ "in_reply_to_user_id": 119068103,
+ "in_reply_to_user_id_str": "119068103",
+ "in_reply_to_screen_name": "Ericthomasbtc",
+ "user": {
+  "id": 790623475,
+  "id_str": "790623475",
+  "name": "Richard Ridgebury",
+  "screen_name": "JFenical_5",
+  "location": "",
+  "description": "BC '16 |#5| UC Football '20 8\ufe0f\u20e34\ufe0f\u20e35\ufe0f\u20e3\u27a1\ufe0f3\ufe0f\u20e31\ufe0f\u20e35\ufe0f\u20e3",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 713,
+  "friends_count": 332,
+  "listed_count": 2,
+  "created_at": "Thu Aug 30 02:16:31 +0000 2012",
+  "favourites_count": 18128,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 16687,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1103708113809506304/n3W6DDLT_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103708113809506304/n3W6DDLT_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/790623475/1551406294",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

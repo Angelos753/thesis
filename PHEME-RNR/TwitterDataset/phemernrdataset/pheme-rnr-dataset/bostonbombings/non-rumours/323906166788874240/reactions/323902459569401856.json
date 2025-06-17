@@ -1,0 +1,117 @@
+{
+ "created_at": "Mon Apr 15 20:55:38 +0000 2013",
+ "id": 323902459569401856,
+ "id_str": "323902459569401856",
+ "full_text": "@SportsCenter @espnjoeymac @BratNazty8 see Jace",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  47
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "SportsCenter",
+    "name": "SportsCenter",
+    "id": 26257166,
+    "id_str": "26257166",
+    "indices": [
+     0,
+     13
+    ]
+   },
+   {
+    "screen_name": "ESPNJoeyMac",
+    "name": "@ESPNJoeyMac",
+    "id": 865023968205561856,
+    "id_str": "865023968205561856",
+    "indices": [
+     14,
+     26
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323902233446068224,
+ "in_reply_to_status_id_str": "323902233446068224",
+ "in_reply_to_user_id": 26257166,
+ "in_reply_to_user_id_str": "26257166",
+ "in_reply_to_screen_name": "SportsCenter",
+ "user": {
+  "id": 291937064,
+  "id_str": "291937064",
+  "name": "i was at the club, bottoms up when i first met you",
+  "screen_name": "notactuallylane",
+  "location": "Fargo, ND",
+  "description": "[ just a human // avi+hp: @kaydargs]",
+  "url": "https://t.co/cHOD7foxBn",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/cHOD7foxBn",
+      "expanded_url": "https://Instagram.com/notactuallylane",
+      "display_url": "Instagram.com/notactuallylane",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 680,
+  "friends_count": 457,
+  "listed_count": 5,
+  "created_at": "Mon May 02 21:13:12 +0000 2011",
+  "favourites_count": 42939,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 25013,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1094802320683085826/tKB0veKQ_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094802320683085826/tKB0veKQ_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/291937064/1551841021",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "7FDBB6",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

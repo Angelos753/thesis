@@ -1,0 +1,163 @@
+{
+ "created_at": "Mon Apr 15 20:46:17 +0000 2013",
+ "id": 323900104178282497,
+ "id_str": "323900104178282497",
+ "full_text": "12 dead &amp; suspect identified. RT\u201c@nypost: Breaking: Boston police confirm another explosion at JFK Library http://t.co/XslnW7hwit\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  134
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "nypost",
+    "name": "New York Post",
+    "id": 17469289,
+    "id_str": "17469289",
+    "indices": [
+     37,
+     44
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/XslnW7hwit",
+    "expanded_url": "http://nyp.st/XNAkbX",
+    "display_url": "nyp.st/XNAkbX",
+    "indices": [
+     111,
+     133
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 323897277569695747,
+ "in_reply_to_status_id_str": "323897277569695747",
+ "in_reply_to_user_id": 17469289,
+ "in_reply_to_user_id_str": "17469289",
+ "in_reply_to_screen_name": "nypost",
+ "user": {
+  "id": 192702743,
+  "id_str": "192702743",
+  "name": "Velile Mnyandu",
+  "screen_name": "Veli_Mbuli",
+  "location": "Johannesburg, RSA",
+  "description": "Award Winning @SPORTATSABC Journalist| African Football First| Tata kaBhongo| Views expressed are not those of employer.",
+  "url": "https://t.co/ayQfWaIzVK",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/ayQfWaIzVK",
+      "expanded_url": "http://www.sabcsport.co.za",
+      "display_url": "sabcsport.co.za",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 65018,
+  "friends_count": 3077,
+  "listed_count": 130,
+  "created_at": "Sun Sep 19 22:40:28 +0000 2010",
+  "favourites_count": 14694,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 57460,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/992518510671736835/-rSpIQjE_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/992518510671736835/-rSpIQjE_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/192702743/1525470082",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   -26.1453326,
+   27.9745611
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   27.9745611,
+   -26.1453326
+  ]
+ },
+ "place": {
+  "id": "e564d30dc173d2a8",
+  "url": "https://api.twitter.com/1.1/geo/id/e564d30dc173d2a8.json",
+  "place_type": "city",
+  "name": "Johannesburg",
+  "full_name": "Johannesburg, South Africa",
+  "country_code": "ZA",
+  "country": "South Africa",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      27.7518557,
+      -26.5126489
+     ],
+     [
+      28.1843404,
+      -26.5126489
+     ],
+     [
+      28.1843404,
+      -26.0396281
+     ],
+     [
+      27.7518557,
+      -26.0396281
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

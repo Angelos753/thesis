@@ -1,0 +1,107 @@
+{
+ "created_at": "Wed Apr 17 03:30:40 +0000 2013",
+ "id": 324364257842044928,
+ "id_str": "324364257842044928",
+ "full_text": "@LifeQuoties but if you have to: lie in the arms of the one you love, cheat death and just promise to be the same guy she fell inlove with",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  138
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Lifequoties",
+    "name": "Facts",
+    "id": 1162561153,
+    "id_str": "1162561153",
+    "indices": [
+     0,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+ "in_reply_to_status_id": 324013151853092865,
+ "in_reply_to_status_id_str": "324013151853092865",
+ "in_reply_to_user_id": 201885911,
+ "in_reply_to_user_id_str": "201885911",
+ "in_reply_to_screen_name": "ScienceAndJokes",
+ "user": {
+  "id": 598893363,
+  "id_str": "598893363",
+  "name": "Mlungisi\u2600Gumede\u2122",
+  "screen_name": "mluester",
+  "location": "Durban, South Africa",
+  "description": "I'm slowly groomed, extra matured, slender 'n tall, dark with a great sense of humor\u263aSundowns/Arsenal \u2665fan\u2665",
+  "url": "http://t.co/dTUxS8PRpV",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/dTUxS8PRpV",
+      "expanded_url": "http://facebook.com/waltzingmluegolden",
+      "display_url": "facebook.com/waltzingmluego\u2026",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 29,
+  "friends_count": 206,
+  "listed_count": 0,
+  "created_at": "Mon Jun 04 01:15:08 +0000 2012",
+  "favourites_count": 122,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 1795,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/531447549459451904/nrG7EZy5_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/531447549459451904/nrG7EZy5_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/598893363/1426556824",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

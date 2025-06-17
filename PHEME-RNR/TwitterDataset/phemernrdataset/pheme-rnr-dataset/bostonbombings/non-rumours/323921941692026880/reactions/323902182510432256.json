@@ -1,0 +1,109 @@
+{
+ "created_at": "Mon Apr 15 20:54:32 +0000 2013",
+ "id": 323902182510432256,
+ "id_str": "323902182510432256",
+ "full_text": "\u201c@CBCAlerts: Police confirm 3rd explosion in Boston; at JFK Library  . 2 bombs at #Boston #Marathon kill 2 people\u201d\n\n&lt;hangs head in silence&gt;",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  145
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Boston",
+    "indices": [
+     82,
+     89
+    ]
+   },
+   {
+    "text": "Marathon",
+    "indices": [
+     90,
+     99
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "CBCAlerts",
+    "name": "CBC News Alerts",
+    "id": 19038934,
+    "id_str": "19038934",
+    "indices": [
+     1,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323900534446755840,
+ "in_reply_to_status_id_str": "323900534446755840",
+ "in_reply_to_user_id": 19038934,
+ "in_reply_to_user_id_str": "19038934",
+ "in_reply_to_screen_name": "CBCAlerts",
+ "user": {
+  "id": 19156949,
+  "id_str": "19156949",
+  "name": "Leigh Anne Ross",
+  "screen_name": "Tiggereh",
+  "location": "Adjala-Tos, Ontario",
+  "description": "Listener. Mum. Wife. Chef Wannabe. Weather Junkie. Reader. Writer. Student of Life...",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 320,
+  "friends_count": 1482,
+  "listed_count": 4,
+  "created_at": "Sun Jan 18 20:38:23 +0000 2009",
+  "favourites_count": 3431,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 2858,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "642D8B",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/906710461336473600/LKjHUJVT_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/906710461336473600/LKjHUJVT_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19156949/1351630813",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "481985",
+  "profile_sidebar_border_color": "65B0DA",
+  "profile_sidebar_fill_color": "7AC3EE",
+  "profile_text_color": "3D1957",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

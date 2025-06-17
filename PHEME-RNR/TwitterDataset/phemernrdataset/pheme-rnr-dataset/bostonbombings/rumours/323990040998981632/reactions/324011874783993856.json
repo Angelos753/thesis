@@ -1,0 +1,149 @@
+{
+ "created_at": "Tue Apr 16 04:10:25 +0000 2013",
+ "id": 324011874783993856,
+ "id_str": "324011874783993856",
+ "full_text": "What?\nRT\u201c@GlobalPost: Westboro Baptist Church threatens to picket funerals of those slain at the Boston Marathon http://t.co/85WcQjR3f4\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  136
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "GlobalPost",
+    "name": "GP Investigations",
+    "id": 16367286,
+    "id_str": "16367286",
+    "indices": [
+     9,
+     20
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/85WcQjR3f4",
+    "expanded_url": "http://glpo.st/16ZfKWD",
+    "display_url": "glpo.st/16ZfKWD",
+    "indices": [
+     113,
+     135
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323987902327578624,
+ "in_reply_to_status_id_str": "323987902327578624",
+ "in_reply_to_user_id": 16367286,
+ "in_reply_to_user_id_str": "16367286",
+ "in_reply_to_screen_name": "GlobalPost",
+ "user": {
+  "id": 227882069,
+  "id_str": "227882069",
+  "name": "kaleb e.",
+  "screen_name": "KalebEverhardt",
+  "location": "",
+  "description": "I'm 18.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 189,
+  "friends_count": 411,
+  "listed_count": 6,
+  "created_at": "Sat Dec 18 02:49:18 +0000 2010",
+  "favourites_count": 547,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 3798,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/696994720350863361/XrMQ3rUQ_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/696994720350863361/XrMQ3rUQ_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/227882069/1416348676",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   31.08968091,
+   -97.47058628
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   -97.47058628,
+   31.08968091
+  ]
+ },
+ "place": {
+  "id": "19a934ea4e2c6407",
+  "url": "https://api.twitter.com/1.1/geo/id/19a934ea4e2c6407.json",
+  "place_type": "city",
+  "name": "Belton",
+  "full_name": "Belton, TX",
+  "country_code": "US",
+  "country": "United States",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      -97.538011,
+      31.014722
+     ],
+     [
+      -97.4261878,
+      31.014722
+     ],
+     [
+      -97.4261878,
+      31.140176
+     ],
+     [
+      -97.538011,
+      31.140176
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

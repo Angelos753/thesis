@@ -1,0 +1,126 @@
+{
+ "created_at": "Mon Apr 15 20:34:31 +0000 2013",
+ "id": 323897143058370561,
+ "id_str": "323897143058370561",
+ "full_text": "\u201c@AP: MORE: US official: 2 more explosives found at Boston marathon: http://t.co/UJyFQt8BLd -CC\u201d #prayforboston",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  111
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "prayforboston",
+    "indices": [
+     97,
+     111
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "AP",
+    "name": "The Associated Press",
+    "id": 51241574,
+    "id_str": "51241574",
+    "indices": [
+     1,
+     4
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/UJyFQt8BLd",
+    "expanded_url": "http://apne.ws/XNzCeC",
+    "display_url": "apne.ws/XNzCeC",
+    "indices": [
+     69,
+     91
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323895606743556097,
+ "in_reply_to_status_id_str": "323895606743556097",
+ "in_reply_to_user_id": 51241574,
+ "in_reply_to_user_id_str": "51241574",
+ "in_reply_to_screen_name": "AP",
+ "user": {
+  "id": 43203139,
+  "id_str": "43203139",
+  "name": "Kaitlynn Fish",
+  "screen_name": "KaitlynnFish",
+  "location": "Louisville, KY",
+  "description": "@WHAS11 @ABC Morning Meteorologist. Formerly @CBSNews, @FoxNews. #NewOrleans native. IG: kaitlynnfishWX. Send \u26c8 photos: kfish@whas11.com",
+  "url": "https://t.co/vfdDahLqt5",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/vfdDahLqt5",
+      "expanded_url": "http://www.whas11.com/weather",
+      "display_url": "whas11.com/weather",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 3995,
+  "friends_count": 2532,
+  "listed_count": 87,
+  "created_at": "Thu May 28 21:40:44 +0000 2009",
+  "favourites_count": 4314,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 22787,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "718F94",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1099994777657978880/cdLoCRCE_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099994777657978880/cdLoCRCE_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/43203139/1525798117",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "63412B",
+  "profile_sidebar_fill_color": "EBF7FA",
+  "profile_text_color": "F06358",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

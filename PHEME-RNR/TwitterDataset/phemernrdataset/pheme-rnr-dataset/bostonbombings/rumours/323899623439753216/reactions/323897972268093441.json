@@ -1,0 +1,117 @@
+{
+ "created_at": "Mon Apr 15 20:37:48 +0000 2013",
+ "id": 323897972268093441,
+ "id_str": "323897972268093441",
+ "full_text": "@skymarkwhite @MrPeterWood that was an unrelated electrical fire according to the AP",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  84
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "skymarkwhite",
+    "name": "Mark White",
+    "id": 89457976,
+    "id_str": "89457976",
+    "indices": [
+     0,
+     13
+    ]
+   },
+   {
+    "screen_name": "MrPeterWood",
+    "name": "Peter Wood",
+    "id": 50639129,
+    "id_str": "50639129",
+    "indices": [
+     14,
+     26
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+ "in_reply_to_status_id": 323896802921299969,
+ "in_reply_to_status_id_str": "323896802921299969",
+ "in_reply_to_user_id": 89457976,
+ "in_reply_to_user_id_str": "89457976",
+ "in_reply_to_screen_name": "skymarkwhite",
+ "user": {
+  "id": 15491837,
+  "id_str": "15491837",
+  "name": "Rita",
+  "screen_name": "Rita_liccious",
+  "location": "South Florida",
+  "description": "Avid reader, anglophile and GH watcher. Love my hubby and kids to pieces.",
+  "url": "http://t.co/F86wwyLCod",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/F86wwyLCod",
+      "expanded_url": "http://www.ritaliccious.wordpress.com",
+      "display_url": "ritaliccious.wordpress.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 486,
+  "friends_count": 956,
+  "listed_count": 23,
+  "created_at": "Sat Jul 19 11:39:23 +0000 2008",
+  "favourites_count": 2917,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 39684,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FF6699",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660456590/5aee07b3efec46fa7367ae378a354254_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660456590/5aee07b3efec46fa7367ae378a354254_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15491837/1366404340",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "B40B43",
+  "profile_sidebar_border_color": "CC3366",
+  "profile_sidebar_fill_color": "E5507E",
+  "profile_text_color": "362720",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

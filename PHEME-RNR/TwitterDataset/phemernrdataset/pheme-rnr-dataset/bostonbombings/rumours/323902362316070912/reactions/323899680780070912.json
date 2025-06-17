@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 20:44:36 +0000 2013",
+ "id": 323899680780070912,
+ "id_str": "323899680780070912",
+ "full_text": "@th3j35t3r good on you. Most are not exercising any sort of restraint.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  70
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "th3j35t3r",
+    "name": "J\u039eS\u0166\u039eR \u272a \u0394C\u0166U\u0394L\u00b3\u00b3\u00ba\u00b9",
+    "id": 97994396,
+    "id_str": "97994396",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+ "in_reply_to_status_id": 323899432305295360,
+ "in_reply_to_status_id_str": "323899432305295360",
+ "in_reply_to_user_id": 97994396,
+ "in_reply_to_user_id_str": "97994396",
+ "in_reply_to_screen_name": "th3j35t3r",
+ "user": {
+  "id": 37237600,
+  "id_str": "37237600",
+  "name": "the hockey wanderer",
+  "screen_name": "HEELVin",
+  "location": "Connecticut, USA",
+  "description": "*tranquilo* \nfreelance content/blog production/copywriting VincentDeLillo@gmail.com",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 548,
+  "friends_count": 1310,
+  "listed_count": 19,
+  "created_at": "Sat May 02 17:14:07 +0000 2009",
+  "favourites_count": 9040,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 54245,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1031919647610863617/Bfrye_kS_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031919647610863617/Bfrye_kS_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/37237600/1485068867",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "E81C4F",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 08:46:26 +0000 2013",
+ "id": 324081337717882880,
+ "id_str": "324081337717882880",
+ "full_text": "@katybluewater He did...what a silly man.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  41
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "katybluewater",
+    "name": "Katy H",
+    "id": 36188520,
+    "id_str": "36188520",
+    "indices": [
+     0,
+     14
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324080980384161792,
+ "in_reply_to_status_id_str": "324080980384161792",
+ "in_reply_to_user_id": 36188520,
+ "in_reply_to_user_id_str": "36188520",
+ "in_reply_to_screen_name": "katybluewater",
+ "user": {
+  "id": 291197113,
+  "id_str": "291197113",
+  "name": "Tokyo Sexwhale",
+  "screen_name": "tokyo_sexwhale",
+  "location": "Norwich",
+  "description": "Illustrator, Animator, sexy.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 11939,
+  "friends_count": 985,
+  "listed_count": 217,
+  "created_at": "Sun May 01 16:23:40 +0000 2011",
+  "favourites_count": 11796,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 70359,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/660757634035904512/K5Kw-ea0_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/660757634035904512/K5Kw-ea0_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/291197113/1446371939",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

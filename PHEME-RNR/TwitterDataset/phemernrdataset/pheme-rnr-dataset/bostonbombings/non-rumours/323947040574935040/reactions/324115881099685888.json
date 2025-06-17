@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 11:03:42 +0000 2013",
+ "id": 324115881099685888,
+ "id_str": "324115881099685888",
+ "full_text": "i feel like @Skin_Diamond is kewl in real life",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  46
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Skin_Diamond",
+    "name": "Skin // RayRay",
+    "id": 21783154,
+    "id_str": "21783154",
+    "indices": [
+     12,
+     25
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323936693830959104,
+ "in_reply_to_status_id_str": "323936693830959104",
+ "in_reply_to_user_id": 21783154,
+ "in_reply_to_user_id_str": "21783154",
+ "in_reply_to_screen_name": "Skin_Diamond",
+ "user": {
+  "id": 37367815,
+  "id_str": "37367815",
+  "name": "Mr. Blue Benja\u24c2\ufe0fin",
+  "screen_name": "FreeBandChico",
+  "location": "",
+  "description": "Half Guyanese \ud83c\uddec\ud83c\uddfe Half Trini \ud83c\uddf9\ud83c\uddf9. Born and raised in Trinidad and Tobago",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 11923,
+  "friends_count": 3473,
+  "listed_count": 62,
+  "created_at": "Sun May 03 04:56:01 +0000 2009",
+  "favourites_count": 5570,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 248543,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "352726",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/977379863656124416/m20wnK4F_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/977379863656124416/m20wnK4F_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/37367815/1523950988",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "D02B55",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "F6F6F6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

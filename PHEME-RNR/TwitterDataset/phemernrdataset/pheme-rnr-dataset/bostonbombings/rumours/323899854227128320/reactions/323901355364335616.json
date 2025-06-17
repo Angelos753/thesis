@@ -1,0 +1,105 @@
+{
+ "created_at": "Mon Apr 15 20:51:15 +0000 2013",
+ "id": 323901355364335616,
+ "id_str": "323901355364335616",
+ "full_text": "\u201c@cnnbrk: Officials investigating Boston Marathon explosions report finding what they believe are unexploded devices: http://t.co/YEmgKSLReA",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  140
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "cnnbrk",
+    "name": "CNN Breaking News",
+    "id": 428333,
+    "id_str": "428333",
+    "indices": [
+     1,
+     8
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/YEmgKSLReA",
+    "expanded_url": "http://on.cnn.com/YXVW3Y",
+    "display_url": "on.cnn.com/YXVW3Y",
+    "indices": [
+     118,
+     140
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323896086030848000,
+ "in_reply_to_status_id_str": "323896086030848000",
+ "in_reply_to_user_id": 428333,
+ "in_reply_to_user_id_str": "428333",
+ "in_reply_to_screen_name": "cnnbrk",
+ "user": {
+  "id": 384962187,
+  "id_str": "384962187",
+  "name": "Annissa :)",
+  "screen_name": "Annisslapper",
+  "location": "",
+  "description": "its amazing.\u2652\ufe0f",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 320,
+  "friends_count": 318,
+  "listed_count": 0,
+  "created_at": "Tue Oct 04 16:48:03 +0000 2011",
+  "favourites_count": 4108,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 7278,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568825551461167104/NyoLpAFI_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568825551461167104/NyoLpAFI_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/384962187/1467164803",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0D3847",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

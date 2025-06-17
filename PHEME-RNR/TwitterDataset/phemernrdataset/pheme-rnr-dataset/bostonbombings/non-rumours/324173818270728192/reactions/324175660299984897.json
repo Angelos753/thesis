@@ -1,0 +1,96 @@
+{
+ "created_at": "Tue Apr 16 15:01:14 +0000 2013",
+ "id": 324175660299984897,
+ "id_str": "324175660299984897",
+ "full_text": "@Spacely_6 smh I'm pretty sure it is",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  36
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+ "in_reply_to_status_id": 324174416571424770,
+ "in_reply_to_status_id_str": "324174416571424770",
+ "in_reply_to_user_id": 267293352,
+ "in_reply_to_user_id_str": "267293352",
+ "in_reply_to_screen_name": "Mr_Spacely_87",
+ "user": {
+  "id": 87497224,
+  "id_str": "87497224",
+  "name": "Tarantino",
+  "screen_name": "ItsCue",
+  "location": "West Grove CT203",
+  "description": "40oz sippin, Grade-A liftin Hippie, Bob Marley extremist #AList",
+  "url": "https://t.co/bXyoMehwSI",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/bXyoMehwSI",
+      "expanded_url": "http://soundcloud.com/ItsCue",
+      "display_url": "soundcloud.com/ItsCue",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 501,
+  "friends_count": 315,
+  "listed_count": 3,
+  "created_at": "Wed Nov 04 18:17:59 +0000 2009",
+  "favourites_count": 163,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 52557,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/916283451686490113/Wedw1MDp_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/916283451686490113/Wedw1MDp_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/87497224/1421561403",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

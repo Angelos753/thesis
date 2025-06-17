@@ -1,0 +1,107 @@
+{
+ "created_at": "Mon Apr 15 20:59:16 +0000 2013",
+ "id": 323903374393237506,
+ "id_str": "323903374393237506",
+ "full_text": "@MNS1974 something new again or the already reported fire?",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  58
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "MNS1974",
+    "name": "Michael N Sutton",
+    "id": 24874156,
+    "id_str": "24874156",
+    "indices": [
+     0,
+     8
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+ "in_reply_to_status_id": 323903132654510080,
+ "in_reply_to_status_id_str": "323903132654510080",
+ "in_reply_to_user_id": 24874156,
+ "in_reply_to_user_id_str": "24874156",
+ "in_reply_to_screen_name": "MNS1974",
+ "user": {
+  "id": 46650115,
+  "id_str": "46650115",
+  "name": "Daniel Freytag",
+  "screen_name": "FRYTG",
+  "location": "\ud83c\uddf3\ud83c\uddf1 Amsterdam,The Netherlands",
+  "description": "\ud83d\ude80 Building nerdy tech projects around Voice+Apps+Cloud at German broadcaster SWR and @FRYTGdigital\n\u2764\ufe0f Cycling, Photography, and Design\n\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\uddea\ud83c\uddfa Be Original.",
+  "url": "https://t.co/eXOIsm27px",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/eXOIsm27px",
+      "expanded_url": "https://frytg.com",
+      "display_url": "frytg.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 29809,
+  "friends_count": 30875,
+  "listed_count": 906,
+  "created_at": "Fri Jun 12 13:26:24 +0000 2009",
+  "favourites_count": 6969,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 31229,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1096526717773070337/G_szt4Nw_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096526717773070337/G_szt4Nw_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/46650115/1544781096",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "E81C4F",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "FFE3C2",
+  "profile_text_color": "575757",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

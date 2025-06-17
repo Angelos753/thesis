@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 21:06:17 +0000 2013",
+ "id": 323905136692957185,
+ "id_str": "323905136692957185",
+ "full_text": "@DelmisDope they have found more around the area so tell your family to make sure not to use the subways or leave their homes.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  126
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "DelmisDope",
+    "name": "DelmiTejada",
+    "id": 199047639,
+    "id_str": "199047639",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 323904725718282241,
+ "in_reply_to_status_id_str": "323904725718282241",
+ "in_reply_to_user_id": 199047639,
+ "in_reply_to_user_id_str": "199047639",
+ "in_reply_to_screen_name": "DelmisDope",
+ "user": {
+  "id": 388381617,
+  "id_str": "388381617",
+  "name": "Luisannax3",
+  "screen_name": "Youadorelucy",
+  "location": "WORCESTER-------FRAMINGHAM",
+  "description": "Luisanna. 20. Employed. Dominican. FSU18. Future Psychologist. #TeamLeo",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 247,
+  "friends_count": 244,
+  "listed_count": 1,
+  "created_at": "Mon Oct 10 17:10:53 +0000 2011",
+  "favourites_count": 1341,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 15882,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FF6699",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/669545996427247616/4EVLxaYC_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/669545996427247616/4EVLxaYC_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/388381617/1419768159",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "B40B43",
+  "profile_sidebar_border_color": "CC3366",
+  "profile_sidebar_fill_color": "E5507E",
+  "profile_text_color": "362720",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

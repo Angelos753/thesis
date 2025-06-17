@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 15:54:04 +0000 2013",
+ "id": 324188953546747905,
+ "id_str": "324188953546747905",
+ "full_text": "@leannrimes have a safe trip!! xo",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  33
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "leannrimes",
+    "name": "LeAnn Rimes Cibrian",
+    "id": 24774508,
+    "id_str": "24774508",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324177930857103360,
+ "in_reply_to_status_id_str": "324177930857103360",
+ "in_reply_to_user_id": 90491032,
+ "in_reply_to_user_id_str": "90491032",
+ "in_reply_to_screen_name": "WriterAJCarroll",
+ "user": {
+  "id": 90491032,
+  "id_str": "90491032",
+  "name": "WriterAJ",
+  "screen_name": "WriterAJCarroll",
+  "location": "",
+  "description": "Hi AJ here. Simply put: I'm a writer, lover of history, music and all things odd!",
+  "url": "https://t.co/CzkJZhO42P",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/CzkJZhO42P",
+      "expanded_url": "http://HowIEndedUpThisWay.Wordpress.com",
+      "display_url": "HowIEndedUpThisWay.Wordpress.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1470,
+  "friends_count": 845,
+  "listed_count": 58,
+  "created_at": "Mon Nov 16 21:40:38 +0000 2009",
+  "favourites_count": 2128,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 71502,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/870068147969306624/oA7mPn-6_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/870068147969306624/oA7mPn-6_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/90491032/1479076552",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "DD2E44",
+  "profile_sidebar_border_color": "A90171",
+  "profile_sidebar_fill_color": "EAA5D3",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

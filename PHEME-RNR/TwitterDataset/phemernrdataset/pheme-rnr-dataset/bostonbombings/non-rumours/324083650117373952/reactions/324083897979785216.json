@@ -1,0 +1,105 @@
+{
+ "created_at": "Tue Apr 16 08:56:37 +0000 2013",
+ "id": 324083897979785216,
+ "id_str": "324083897979785216",
+ "full_text": "@easyleesie I thought that, apparently not :(",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  45
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "easyleesie",
+    "name": "Leesie",
+    "id": 29547111,
+    "id_str": "29547111",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324083650117373952,
+ "in_reply_to_status_id_str": "324083650117373952",
+ "in_reply_to_user_id": 29547111,
+ "in_reply_to_user_id_str": "29547111",
+ "in_reply_to_screen_name": "easyleesie",
+ "user": {
+  "id": 43309017,
+  "id_str": "43309017",
+  "name": "Joanne",
+  "screen_name": "AyjayH",
+  "location": "Leeds and Cape Town",
+  "description": "Working in online health, married, mother, part-time poet & pasta-lover, asking questions - views/questions are really my own",
+  "url": "http://t.co/W54BWPOBvA",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/W54BWPOBvA",
+      "expanded_url": "http://joberry4.wordpress.com/",
+      "display_url": "joberry4.wordpress.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2202,
+  "friends_count": 1316,
+  "listed_count": 42,
+  "created_at": "Fri May 29 10:43:28 +0000 2009",
+  "favourites_count": 21954,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 69779,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/561073519925010432/8g5Ir2AP_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/561073519925010432/8g5Ir2AP_normal.jpeg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

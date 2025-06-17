@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 15:22:00 +0000 2013",
+ "id": 324180885907857408,
+ "id_str": "324180885907857408",
+ "full_text": "@jazzt didn't even notice... Thx almost time to go! Yay!!!!! Coping. How's your day?",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  84
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "jazzt",
+    "name": "@jazzt",
+    "id": 21592972,
+    "id_str": "21592972",
+    "indices": [
+     0,
+     6
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+ "in_reply_to_status_id": 324180430184128513,
+ "in_reply_to_status_id_str": "324180430184128513",
+ "in_reply_to_user_id": 21592972,
+ "in_reply_to_user_id_str": "21592972",
+ "in_reply_to_screen_name": "jazzt",
+ "user": {
+  "id": 26230288,
+  "id_str": "26230288",
+  "name": "\u2728BA\u2728",
+  "screen_name": "bettyann329",
+  "location": "boston",
+  "description": "dreams do come true",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 804,
+  "friends_count": 677,
+  "listed_count": 13,
+  "created_at": "Tue Mar 24 12:57:16 +0000 2009",
+  "favourites_count": 20841,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 52211,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/955955875021295623/dRrufnXr_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/955955875021295623/dRrufnXr_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/26230288/1424824228",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "E95E44",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FFDAAE",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

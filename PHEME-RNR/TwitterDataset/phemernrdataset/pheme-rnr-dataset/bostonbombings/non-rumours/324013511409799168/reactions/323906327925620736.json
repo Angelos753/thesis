@@ -1,0 +1,107 @@
+{
+ "created_at": "Mon Apr 15 21:11:01 +0000 2013",
+ "id": 323906327925620736,
+ "id_str": "323906327925620736",
+ "full_text": "@rheegold glad you and Rennie and family are safe.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  50
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "RheeGold",
+    "name": "Rhee Gold",
+    "id": 45678922,
+    "id_str": "45678922",
+    "indices": [
+     0,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+ "in_reply_to_status_id": 323905006791180288,
+ "in_reply_to_status_id_str": "323905006791180288",
+ "in_reply_to_user_id": 45678922,
+ "in_reply_to_user_id_str": "45678922",
+ "in_reply_to_screen_name": "RheeGold",
+ "user": {
+  "id": 163283448,
+  "id_str": "163283448",
+  "name": "Liz Parker",
+  "screen_name": "yesnodetroit",
+  "location": "Detroit, MI",
+  "description": "Founder and writer at @yesnodetroit, a lifestyle blog covering food, entertainment, travel, tech & more. Best of Detroit contributor @cbsdetroit.",
+  "url": "https://t.co/tklUKOy1sq",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/tklUKOy1sq",
+      "expanded_url": "http://www.yesnodetroit.com",
+      "display_url": "yesnodetroit.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 8177,
+  "friends_count": 3938,
+  "listed_count": 168,
+  "created_at": "Tue Jul 06 01:10:55 +0000 2010",
+  "favourites_count": 8626,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 55776,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/481507626425933825/IdXTk4ki_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/481507626425933825/IdXTk4ki_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/163283448/1497882707",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "981CEB",
+  "profile_sidebar_border_color": "DCDCDC",
+  "profile_sidebar_fill_color": "FFD800",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

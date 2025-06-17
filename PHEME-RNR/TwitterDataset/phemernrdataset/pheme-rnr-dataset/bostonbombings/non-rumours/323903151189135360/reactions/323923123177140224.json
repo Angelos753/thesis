@@ -1,0 +1,113 @@
+{
+ "created_at": "Mon Apr 15 22:17:45 +0000 2013",
+ "id": 323923123177140224,
+ "id_str": "323923123177140224",
+ "full_text": "\u201c@Darkskin: IN BOSTON: He ran in dedication of the newtown kids and now he won't ever walk again #prayforboston http://t.co/3YLWaaZ9GX\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  135
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "prayforboston",
+    "indices": [
+     97,
+     111
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Darkskin",
+    "name": "Darkskin\u2122",
+    "id": 127415560,
+    "id_str": "127415560",
+    "indices": [
+     1,
+     10
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/3YLWaaZ9GX",
+    "expanded_url": "https://twitter.com/omgzvyn/status/323895175166447616/photo/1",
+    "display_url": "pic.twitter.com/3YLWaaZ9GX",
+    "indices": [
+     112,
+     134
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323899081917333505,
+ "in_reply_to_status_id_str": "323899081917333505",
+ "in_reply_to_user_id": 127415560,
+ "in_reply_to_user_id_str": "127415560",
+ "in_reply_to_screen_name": "Darkskin",
+ "user": {
+  "id": 399440018,
+  "id_str": "399440018",
+  "name": "N",
+  "screen_name": "Nickybrown__",
+  "location": "Dix Hills, NY",
+  "description": "NY || LI \u2022 Son, Brother, Soldier, Tattoo Enthusiast",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 338,
+  "friends_count": 583,
+  "listed_count": 0,
+  "created_at": "Thu Oct 27 14:10:12 +0000 2011",
+  "favourites_count": 1643,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 4113,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1050573626917957633/SeP8peLg_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050573626917957633/SeP8peLg_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/399440018/1504846715",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "C48E23",
+  "profile_sidebar_border_color": "090909",
+  "profile_sidebar_fill_color": "1C1D1E",
+  "profile_text_color": "4F5457",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

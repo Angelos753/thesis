@@ -1,0 +1,128 @@
+{
+ "created_at": "Mon Apr 15 20:30:35 +0000 2013",
+ "id": 323896154158931969,
+ "id_str": "323896154158931969",
+ "full_text": "Keeps getting worse ... RT @AP: MORE: US official: 2 more explosives found at Boston marathon: http://t.co/0V2QcIw2zk",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  117
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "AP",
+    "name": "The Associated Press",
+    "id": 51241574,
+    "id_str": "51241574",
+    "indices": [
+     27,
+     30
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/0V2QcIw2zk",
+    "expanded_url": "http://apne.ws/XNzCeC",
+    "display_url": "apne.ws/XNzCeC",
+    "indices": [
+     95,
+     117
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 323895606743556097,
+ "in_reply_to_status_id_str": "323895606743556097",
+ "in_reply_to_user_id": 51241574,
+ "in_reply_to_user_id_str": "51241574",
+ "in_reply_to_screen_name": "AP",
+ "user": {
+  "id": 344449819,
+  "id_str": "344449819",
+  "name": "Lynda Cohen",
+  "screen_name": "LyndaCohen",
+  "location": "Atlantic City, NJ",
+  "description": "Breaking news and looking beyond https://t.co/xrsqcUKyjR. \nAlso follow @BreakingAC\n#confirmTHENreport #independentnews",
+  "url": "https://t.co/9W8bQlqtK5",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/9W8bQlqtK5",
+      "expanded_url": "http://breakingac.com",
+      "display_url": "breakingac.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": [
+     {
+      "url": "https://t.co/xrsqcUKyjR",
+      "expanded_url": "http://breakingAC.com",
+      "display_url": "breakingAC.com",
+      "indices": [
+       33,
+       56
+      ]
+     }
+    ]
+   }
+  },
+  "protected": false,
+  "followers_count": 9169,
+  "friends_count": 208,
+  "listed_count": 114,
+  "created_at": "Fri Jul 29 02:36:53 +0000 2011",
+  "favourites_count": 596,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 22152,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/955921217755660288/-4bo9CwW_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/955921217755660288/-4bo9CwW_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/344449819/1473459804",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "2FC2EF",
+  "profile_sidebar_border_color": "181A1E",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 4,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

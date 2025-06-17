@@ -1,0 +1,100 @@
+{
+ "created_at": "Tue Apr 16 00:19:15 +0000 2013",
+ "id": 323953700748029952,
+ "id_str": "323953700748029952",
+ "full_text": "@newyorkdiavolos thanks my dude, you are now a legend in Hartford lol. #glamorouslifestyles",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  91
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "glamorouslifestyles",
+    "indices": [
+     71,
+     91
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "newyorkdiavolos",
+    "name": "Brandon Freeman",
+    "id": 424455756,
+    "id_str": "424455756",
+    "indices": [
+     0,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323951482347081728,
+ "in_reply_to_status_id_str": "323951482347081728",
+ "in_reply_to_user_id": 424455756,
+ "in_reply_to_user_id_str": "424455756",
+ "in_reply_to_screen_name": "newyorkdiavolos",
+ "user": {
+  "id": 362564176,
+  "id_str": "362564176",
+  "name": "matt rowan",
+  "screen_name": "revroww",
+  "location": "",
+  "description": "NYK, Duke, Mets,NYG, ARSENAL",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 147,
+  "friends_count": 493,
+  "listed_count": 0,
+  "created_at": "Fri Aug 26 16:16:49 +0000 2011",
+  "favourites_count": 1882,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 2570,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/465870824482684928/VciMXnlO_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/465870824482684928/VciMXnlO_normal.jpeg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

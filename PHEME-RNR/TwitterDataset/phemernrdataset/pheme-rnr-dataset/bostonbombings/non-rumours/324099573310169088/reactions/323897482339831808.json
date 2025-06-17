@@ -1,0 +1,107 @@
+{
+ "created_at": "Mon Apr 15 20:35:52 +0000 2013",
+ "id": 323897482339831808,
+ "id_str": "323897482339831808",
+ "full_text": "@samanthajferris confirmed the explosions were from bombs and there were 2 more that didn't go off.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  99
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "samanthajferris",
+    "name": "Samantha Ferris",
+    "id": 148068977,
+    "id_str": "148068977",
+    "indices": [
+     0,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323896959020724224,
+ "in_reply_to_status_id_str": "323896959020724224",
+ "in_reply_to_user_id": 148068977,
+ "in_reply_to_user_id_str": "148068977",
+ "in_reply_to_screen_name": "samanthajferris",
+ "user": {
+  "id": 361205597,
+  "id_str": "361205597",
+  "name": "Shanti Riana Marie",
+  "screen_name": "CrimsonRia",
+  "location": "Kansas City, MO",
+  "description": "Ria Unbelievable. Love my creatures, love my @callykhs. Scorpio, twitter and sugar addict, writer.",
+  "url": "https://t.co/6WOUMfK6PK",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/6WOUMfK6PK",
+      "expanded_url": "http://crimsonria.tumblr.com",
+      "display_url": "crimsonria.tumblr.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 85,
+  "friends_count": 195,
+  "listed_count": 2,
+  "created_at": "Wed Aug 24 12:27:43 +0000 2011",
+  "favourites_count": 2174,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 10192,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/748368367627689989/9nYMTsfp_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/748368367627689989/9nYMTsfp_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/361205597/1429818952",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

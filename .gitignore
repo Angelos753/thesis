@@ -1,0 +1,36 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large ML model files
+PHEME-RNR/trained_models/classification_models_text_only/pytorch_model.bin
+PHEME-RNR/trained_models/classification_models_text_comments/pytorch_model.bin
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore output logs or local debug data
+*.log
+*.tmp
+
+# VSCode project settings (optional)
+.vscode/
+
+# LFS related
+.gitattributes

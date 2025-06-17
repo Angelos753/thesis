@@ -1,0 +1,125 @@
+{
+ "created_at": "Tue Apr 16 22:31:46 +0000 2013",
+ "id": 324289038343364609,
+ "id_str": "324289038343364609",
+ "full_text": "\u201c@Ericthomasbtc: If you're doing it right, the journey should be fun, not stressful. #Success\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  94
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Success",
+    "indices": [
+     85,
+     93
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Ericthomasbtc",
+    "name": "Eric Thomas",
+    "id": 119068103,
+    "id_str": "119068103",
+    "indices": [
+     1,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324108056583602176,
+ "in_reply_to_status_id_str": "324108056583602176",
+ "in_reply_to_user_id": 119068103,
+ "in_reply_to_user_id_str": "119068103",
+ "in_reply_to_screen_name": "Ericthomasbtc",
+ "user": {
+  "id": 544907265,
+  "id_str": "544907265",
+  "name": "NP J O H N",
+  "screen_name": "RunJohn24",
+  "location": "At da crib dawg! \u2708\ufe0f",
+  "description": "Yo Favorite Nurse! If we chase perfection we can catch excellence! https://t.co/Zd5kFyKi2Y #iCameFromNothing #LaFamilia #StriveForGeatness \u264e RN Asalam-Alaikum",
+  "url": "https://t.co/7QDmPF5813",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/7QDmPF5813",
+      "expanded_url": "http://www.circleofsucess.com",
+      "display_url": "circleofsucess.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": [
+     {
+      "url": "https://t.co/Zd5kFyKi2Y",
+      "expanded_url": "http://R.I.P.Mom",
+      "display_url": "R.I.P.Mom",
+      "indices": [
+       67,
+       90
+      ]
+     }
+    ]
+   }
+  },
+  "protected": false,
+  "followers_count": 318,
+  "friends_count": 366,
+  "listed_count": 1,
+  "created_at": "Wed Apr 04 04:06:16 +0000 2012",
+  "favourites_count": 450,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 20821,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/659994956023525376/P7Xioxww_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/659994956023525376/P7Xioxww_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/544907265/1446947637",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

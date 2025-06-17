@@ -1,0 +1,127 @@
+{
+ "created_at": "Tue Apr 16 05:31:47 +0000 2013",
+ "id": 324032352554721280,
+ "id_str": "324032352554721280",
+ "full_text": "@NewsBreaker @WBCSays  That is just disgusting! I wish @Twitter would SHUT DOWN their account for hate speech!",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  110
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "NewsBreaker",
+    "name": "NewsBreaker",
+    "id": 774393817,
+    "id_str": "774393817",
+    "indices": [
+     0,
+     12
+    ]
+   },
+   {
+    "screen_name": "WBCSays",
+    "name": "Westboro Baptist",
+    "id": 226749394,
+    "id_str": "226749394",
+    "indices": [
+     13,
+     21
+    ]
+   },
+   {
+    "screen_name": "Twitter",
+    "name": "Twitter",
+    "id": 783214,
+    "id_str": "783214",
+    "indices": [
+     55,
+     63
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324024749229490176,
+ "in_reply_to_status_id_str": "324024749229490176",
+ "in_reply_to_user_id": 774393817,
+ "in_reply_to_user_id_str": "774393817",
+ "in_reply_to_screen_name": "NewsBreaker",
+ "user": {
+  "id": 50020778,
+  "id_str": "50020778",
+  "name": "Lynnie",
+  "screen_name": "TweetThisBabe",
+  "location": "Massachusetts",
+  "description": "OFFICIAL & VERIFIED Account by ME, the real deal!  A former Miss New England Celebrity, current social media celeb who loves people & laughing 'till you cry!",
+  "url": "http://t.co/rGUng8K7OX",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/rGUng8K7OX",
+      "expanded_url": "http://www.ustream.tv/channel/lydia-live-todhd",
+      "display_url": "ustream.tv/channel/lydia-\u2026",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2559,
+  "friends_count": 3094,
+  "listed_count": 218,
+  "created_at": "Tue Jun 23 16:20:40 +0000 2009",
+  "favourites_count": 19509,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 138883,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FF6699",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/876716576048795648/KEG5t__6_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/876716576048795648/KEG5t__6_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/50020778/1497863772",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "3B94D9",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "F069D7",
+  "profile_text_color": "0D0A0D",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 2,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

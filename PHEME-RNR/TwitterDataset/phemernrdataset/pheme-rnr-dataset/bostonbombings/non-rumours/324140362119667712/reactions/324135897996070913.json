@@ -1,0 +1,116 @@
+{
+ "created_at": "Tue Apr 16 12:23:14 +0000 2013",
+ "id": 324135897996070913,
+ "id_str": "324135897996070913",
+ "full_text": "@imjamesjlopez @Ericthomasbtc There's never been a victory without a battle!",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  76
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "imjamesjlopez",
+    "name": "James Lopez \ud83d\uddfd\ud83c\uddf5\ud83c\uddf7",
+    "id": 28863952,
+    "id_str": "28863952",
+    "indices": [
+     0,
+     14
+    ]
+   },
+   {
+    "screen_name": "Ericthomasbtc",
+    "name": "Eric Thomas",
+    "id": 119068103,
+    "id_str": "119068103",
+    "indices": [
+     15,
+     29
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324128661706010624,
+ "in_reply_to_status_id_str": "324128661706010624",
+ "in_reply_to_user_id": 28863952,
+ "in_reply_to_user_id_str": "28863952",
+ "in_reply_to_screen_name": "imjamesjlopez",
+ "user": {
+  "id": 471940359,
+  "id_str": "471940359",
+  "name": "Richard Anderson",
+  "screen_name": "successupdate",
+  "location": "",
+  "description": "Sharing the overwhelming evidence that our lives will work the moment we commit 100% to achieving a result.",
+  "url": "http://t.co/pSXh2FvSvS",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/pSXh2FvSvS",
+      "expanded_url": "http://personal-success-mastery.com",
+      "display_url": "personal-success-mastery.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2027,
+  "friends_count": 2738,
+  "listed_count": 7,
+  "created_at": "Mon Jan 23 12:28:22 +0000 2012",
+  "favourites_count": 169,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 3696,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3345586090/b5330e33dd213940e24a4fe80b62e1af_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3345586090/b5330e33dd213940e24a4fe80b62e1af_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/471940359/1360613415",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

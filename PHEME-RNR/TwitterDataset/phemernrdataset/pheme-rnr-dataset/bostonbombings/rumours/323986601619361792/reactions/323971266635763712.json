@@ -1,0 +1,115 @@
+{
+ "created_at": "Tue Apr 16 01:29:03 +0000 2013",
+ "id": 323971266635763712,
+ "id_str": "323971266635763712",
+ "full_text": "There must be intel chatter on this type of hit @TwitchyTeam WSJ: 5 undetonated explosive devices found in Boston http://t.co/5BRAXkopHm",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  136
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "TwitchyTeam",
+    "name": "Twitchy Team",
+    "id": 469194846,
+    "id_str": "469194846",
+    "indices": [
+     48,
+     60
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/5BRAXkopHm",
+    "expanded_url": "http://bit.ly/15h03fd",
+    "display_url": "bit.ly/15h03fd",
+    "indices": [
+     114,
+     136
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323969823983943680,
+ "in_reply_to_status_id_str": "323969823983943680",
+ "in_reply_to_user_id": 469194846,
+ "in_reply_to_user_id_str": "469194846",
+ "in_reply_to_screen_name": "TwitchyTeam",
+ "user": {
+  "id": 90480218,
+  "id_str": "90480218",
+  "name": "Richard Grenell",
+  "screen_name": "RichardGrenell",
+  "location": "LA, Palm Springs (and Berlin)",
+  "description": "I\u2019m stronger after cancer. my dog runs my life. imperfect follower of Christ. https://t.co/danITSml3j",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": [
+     {
+      "url": "https://t.co/danITSml3j",
+      "expanded_url": "https://www.instagram.com/richardgrenell",
+      "display_url": "instagram.com/richardgrenell",
+      "indices": [
+       78,
+       101
+      ]
+     }
+    ]
+   }
+  },
+  "protected": false,
+  "followers_count": 121957,
+  "friends_count": 2448,
+  "listed_count": 1591,
+  "created_at": "Mon Nov 16 20:46:59 +0000 2009",
+  "favourites_count": 22713,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 73144,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/90480218/1548589945",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 2,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 15:10:09 +0000 2013",
+ "id": 324177904030343168,
+ "id_str": "324177904030343168",
+ "full_text": "@leannrimes Spellbinding is the truth.That's what I say too :) utterly spell binding.. You have a very rare true talent girl.. I'm so proud",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  139
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "leannrimes",
+    "name": "LeAnn Rimes Cibrian",
+    "id": 24774508,
+    "id_str": "24774508",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 324176837615943681,
+ "in_reply_to_status_id_str": "324176837615943681",
+ "in_reply_to_user_id": 24774508,
+ "in_reply_to_user_id_str": "24774508",
+ "in_reply_to_screen_name": "leannrimes",
+ "user": {
+  "id": 163676835,
+  "id_str": "163676835",
+  "name": "Asu",
+  "screen_name": "asu_juliette",
+  "location": "In your mind ",
+  "description": "Mum, Sister, that crazy friend you can have tons of fun with, hopeless dreamer, still a child by heart. #gemini \ud83c\uddf9\ud83c\uddf7#Atat\u00fcrk\u00e7\u00fc",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 973,
+  "friends_count": 246,
+  "listed_count": 38,
+  "created_at": "Wed Jul 07 00:56:21 +0000 2010",
+  "favourites_count": 1218,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 201035,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1031917617068601344/B_6Tkljq_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031917617068601344/B_6Tkljq_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/163676835/1531329322",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

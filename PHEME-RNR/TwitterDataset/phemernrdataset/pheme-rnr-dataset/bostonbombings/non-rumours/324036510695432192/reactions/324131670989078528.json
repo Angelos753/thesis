@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 12:06:27 +0000 2013",
+ "id": 324131670989078528,
+ "id_str": "324131670989078528",
+ "full_text": "@sara_M_sara_M Have a blessed day too dear xx M.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  48
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "sara_M_sara_M",
+    "name": "Sara Ahmed",
+    "id": 526679608,
+    "id_str": "526679608",
+    "indices": [
+     0,
+     14
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324048208735129600,
+ "in_reply_to_status_id_str": "324048208735129600",
+ "in_reply_to_user_id": 526679608,
+ "in_reply_to_user_id_str": "526679608",
+ "in_reply_to_screen_name": "sara_M_sara_M",
+ "user": {
+  "id": 397457492,
+  "id_str": "397457492",
+  "name": "Mona Abou Hamze",
+  "screen_name": "MonaAbouHamze",
+  "location": "Beirut",
+  "description": "TV Anchor, Housewife, Writer & Journalist @YawmiyatiMag",
+  "url": "https://t.co/BdhDIWmLyL",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/BdhDIWmLyL",
+      "expanded_url": "http://monagazine.com",
+      "display_url": "monagazine.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 786312,
+  "friends_count": 823,
+  "listed_count": 507,
+  "created_at": "Mon Oct 24 18:26:15 +0000 2011",
+  "favourites_count": 18643,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 15590,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "D359EB",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1095052985967800322/8s3Ci3YB_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095052985967800322/8s3Ci3YB_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/397457492/1546220698",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "BA77D1",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "FAEDFA",
+  "profile_text_color": "0A0A0A",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

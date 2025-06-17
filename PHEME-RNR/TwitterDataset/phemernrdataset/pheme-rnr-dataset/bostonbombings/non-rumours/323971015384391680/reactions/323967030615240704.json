@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 01:12:13 +0000 2013",
+ "id": 323967030615240704,
+ "id_str": "323967030615240704",
+ "full_text": "@Sophionabilo good :p",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  21
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Sophionabilo",
+    "name": "Sofea",
+    "id": 422525215,
+    "id_str": "422525215",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+ "in_reply_to_status_id": 323966692172648448,
+ "in_reply_to_status_id_str": "323966692172648448",
+ "in_reply_to_user_id": 422525215,
+ "in_reply_to_user_id_str": "422525215",
+ "in_reply_to_screen_name": "Sophionabilo",
+ "user": {
+  "id": 941746002,
+  "id_str": "941746002",
+  "name": "Remaja Labil's",
+  "screen_name": "LabilsTeenagers",
+  "location": "(tidak lagi) dihatimu.",
+  "description": "Tik.. Tik.. Tik.. Detik demi detik, perasaanku selalu berubah buat kamu :') Follow @LabilsTeenagers buat twit lainnya #Recommended",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 7577,
+  "friends_count": 2,
+  "listed_count": 2,
+  "created_at": "Sun Nov 11 17:14:37 +0000 2012",
+  "favourites_count": 2137,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 23889,
+  "lang": "id",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/427066790884036609/Md3ph091_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/427066790884036609/Md3ph091_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/941746002/1390655695",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "05FF05",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 18:13:13 +0000 2013",
+ "id": 324223971950215168,
+ "id_str": "324223971950215168",
+ "full_text": "\u201c@Country_Words: I live to love and laugh a lot, and that's all I need. -Kenny Chesney\u201d life is good",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  100
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Country_Words",
+    "name": "Country Words",
+    "id": 453510918,
+    "id_str": "453510918",
+    "indices": [
+     1,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323982847360786434,
+ "in_reply_to_status_id_str": "323982847360786434",
+ "in_reply_to_user_id": 453510918,
+ "in_reply_to_user_id_str": "453510918",
+ "in_reply_to_screen_name": "Country_Words",
+ "user": {
+  "id": 46763933,
+  "id_str": "46763933",
+  "name": "Burchy",
+  "screen_name": "K_Burchy",
+  "location": "Texas, USA",
+  "description": "\u2018MERICA\ud83c\uddfa\ud83c\uddf8",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 234,
+  "friends_count": 211,
+  "listed_count": 6,
+  "created_at": "Fri Jun 12 22:24:38 +0000 2009",
+  "favourites_count": 279,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 16023,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "07090B",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/950105809878429696/u84Iqmbr_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/950105809878429696/u84Iqmbr_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/46763933/1371013121",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "C34242",
+  "profile_sidebar_border_color": "BFBFBF",
+  "profile_sidebar_fill_color": "C9C9C9",
+  "profile_text_color": "1C1F23",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

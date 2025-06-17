@@ -1,0 +1,117 @@
+{
+ "created_at": "Tue Apr 16 00:56:06 +0000 2013",
+ "id": 323962975344029697,
+ "id_str": "323962975344029697",
+ "full_text": "@deepitboss @SimplyShanWalk that's inaccurate.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  46
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "deepitboss",
+    "name": "Dee Sonaram",
+    "id": 25696704,
+    "id_str": "25696704",
+    "indices": [
+     0,
+     11
+    ]
+   },
+   {
+    "screen_name": "SimplyShanWalk",
+    "name": "I can only be me!!",
+    "id": 36173988,
+    "id_str": "36173988",
+    "indices": [
+     12,
+     27
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://onloft.com/tweetlogix\" rel=\"nofollow\">Tweetlogix</a>",
+ "in_reply_to_status_id": 323959498727366656,
+ "in_reply_to_status_id_str": "323959498727366656",
+ "in_reply_to_user_id": 25696704,
+ "in_reply_to_user_id_str": "25696704",
+ "in_reply_to_screen_name": "deepitboss",
+ "user": {
+  "id": 39202482,
+  "id_str": "39202482",
+  "name": "Yam Drizzle is Soul Food Extra Credit",
+  "screen_name": "ASouthernJule",
+  "location": "Houston, TX ",
+  "description": "A Country Girl who loves God, enjoys Political Science, Tequila and a 10 piece spicy lemon pepper order with 8 flats and 2 drums, fried hard & extra wet.",
+  "url": "https://t.co/0L5oCA0sAS",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/0L5oCA0sAS",
+      "expanded_url": "http://www.justwhipped.bigcartel.com",
+      "display_url": "justwhipped.bigcartel.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1376,
+  "friends_count": 441,
+  "listed_count": 38,
+  "created_at": "Mon May 11 05:56:31 +0000 2009",
+  "favourites_count": 2211,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 236982,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1065622603870687234/LdlOXb49_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065622603870687234/LdlOXb49_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/39202482/1546882312",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "EB38D0",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

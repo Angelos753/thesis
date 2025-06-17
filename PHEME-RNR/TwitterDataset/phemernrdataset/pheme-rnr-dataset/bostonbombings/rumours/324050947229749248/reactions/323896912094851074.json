@@ -1,0 +1,129 @@
+{
+ "created_at": "Mon Apr 15 20:33:36 +0000 2013",
+ "id": 323896912094851074,
+ "id_str": "323896912094851074",
+ "full_text": "#Boston #Explosion \u201c@ReutersUS: Boston police confirms another explosion at JFK Library #breaking\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  98
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Boston",
+    "indices": [
+     0,
+     7
+    ]
+   },
+   {
+    "text": "Explosion",
+    "indices": [
+     8,
+     18
+    ]
+   },
+   {
+    "text": "breaking",
+    "indices": [
+     88,
+     97
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "ReutersUS",
+    "name": "Reuters U.S. News",
+    "id": 15108530,
+    "id_str": "15108530",
+    "indices": [
+     20,
+     30
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323896463321079811,
+ "in_reply_to_status_id_str": "323896463321079811",
+ "in_reply_to_user_id": 15108530,
+ "in_reply_to_user_id_str": "15108530",
+ "in_reply_to_screen_name": "ReutersUS",
+ "user": {
+  "id": 33340632,
+  "id_str": "33340632",
+  "name": "Ra\u00fal Garc\u00eda",
+  "screen_name": "RaulGarciaTV",
+  "location": "Miami and The Beaches",
+  "description": "La curiosidad no mat\u00f3 al gato",
+  "url": "https://t.co/NjjIXXq57i",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/NjjIXXq57i",
+      "expanded_url": "https://www.instagram.com/raulgarciatv/",
+      "display_url": "instagram.com/raulgarciatv/",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 27004,
+  "friends_count": 575,
+  "listed_count": 137,
+  "created_at": "Sun Apr 19 23:29:07 +0000 2009",
+  "favourites_count": 5010,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 13103,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1101903881280385026/qIMScoLw_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101903881280385026/qIMScoLw_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33340632/1543678143",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "2FC2EF",
+  "profile_sidebar_border_color": "181A1E",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 5,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

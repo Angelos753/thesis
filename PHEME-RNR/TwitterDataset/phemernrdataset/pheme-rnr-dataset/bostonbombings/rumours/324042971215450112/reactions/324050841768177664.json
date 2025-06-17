@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 06:45:15 +0000 2013",
+ "id": 324050841768177664,
+ "id_str": "324050841768177664",
+ "full_text": "@alexirob so his girlfriend didnt die but he was??",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  50
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "alexirob",
+    "name": "cosplaymom99",
+    "id": 70321417,
+    "id_str": "70321417",
+    "indices": [
+     0,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324050107618168832,
+ "in_reply_to_status_id_str": "324050107618168832",
+ "in_reply_to_user_id": 70321417,
+ "in_reply_to_user_id_str": "70321417",
+ "in_reply_to_screen_name": "alexirob",
+ "user": {
+  "id": 371145297,
+  "id_str": "371145297",
+  "name": "\ud835\udc8b\ud835\udc86\ud835\udc9b\ud835\udc9b \u2741",
+  "screen_name": "blazedmarais",
+  "location": "ari, jb & \u2155 // hmt 26.8.14",
+  "description": "1 2 3 4 5 golden rings",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 4251,
+  "friends_count": 678,
+  "listed_count": 40,
+  "created_at": "Sat Sep 10 08:35:14 +0000 2011",
+  "favourites_count": 21078,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 55054,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "709397",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1108272597987262464/AK3DR-CF_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108272597987262464/AK3DR-CF_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/371145297/1550175181",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "8F2852",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "A0C5C7",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

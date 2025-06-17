@@ -1,0 +1,105 @@
+{
+ "created_at": "Mon Apr 15 20:51:41 +0000 2013",
+ "id": 323901465179615234,
+ "id_str": "323901465179615234",
+ "full_text": "@patriciareee there is also this http://t.co/ZmWDFdZZrd",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  55
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "patriciareee",
+    "name": "Patricia",
+    "id": 17824188,
+    "id_str": "17824188",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/ZmWDFdZZrd",
+    "expanded_url": "http://baa.org/individual.html",
+    "display_url": "baa.org/individual.html",
+    "indices": [
+     33,
+     55
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323901179597819904,
+ "in_reply_to_status_id_str": "323901179597819904",
+ "in_reply_to_user_id": 17824188,
+ "in_reply_to_user_id_str": "17824188",
+ "in_reply_to_screen_name": "patriciareee",
+ "user": {
+  "id": 17666256,
+  "id_str": "17666256",
+  "name": "Cait",
+  "screen_name": "Traptinthe1800s",
+  "location": "toronto, Ontario",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 148,
+  "friends_count": 859,
+  "listed_count": 2,
+  "created_at": "Thu Nov 27 01:52:04 +0000 2008",
+  "favourites_count": 488,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 15347,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1066151788959723520/uRTVWWCJ_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066151788959723520/uRTVWWCJ_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/17666256/1502983125",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0022FF",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FFF7CC",
+  "profile_text_color": "06161C",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

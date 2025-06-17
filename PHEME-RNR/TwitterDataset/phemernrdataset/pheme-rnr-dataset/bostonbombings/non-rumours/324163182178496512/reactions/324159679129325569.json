@@ -1,0 +1,139 @@
+{
+ "created_at": "Tue Apr 16 13:57:44 +0000 2013",
+ "id": 324159679129325569,
+ "id_str": "324159679129325569",
+ "full_text": "@SashaaMalik \nthanks girl you only makes us get anger",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  53
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "sashaamalik",
+    "name": "sasha malik",
+    "id": 466625578,
+    "id_str": "466625578",
+    "indices": [
+     0,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324151460529057793,
+ "in_reply_to_status_id_str": "324151460529057793",
+ "in_reply_to_user_id": 466625578,
+ "in_reply_to_user_id_str": "466625578",
+ "in_reply_to_screen_name": "sashaamalik",
+ "user": {
+  "id": 898768464,
+  "id_str": "898768464",
+  "name": "\ud83e\udddc\ud83c\udffc\u200d\u2640\ufe0f",
+  "screen_name": "_caro97",
+  "location": "Atlantis ",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 317,
+  "friends_count": 97,
+  "listed_count": 4,
+  "created_at": "Tue Oct 23 00:36:44 +0000 2012",
+  "favourites_count": 28070,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 52757,
+  "lang": "es",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1083605553929224192/onp3tu6x_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083605553929224192/onp3tu6x_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/898768464/1529187884",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "F5ABB5",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   25.80050855,
+   -108.99219602
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   -108.99219602,
+   25.80050855
+  ]
+ },
+ "place": {
+  "id": "eaf73267148942d2",
+  "url": "https://api.twitter.com/1.1/geo/id/eaf73267148942d2.json",
+  "place_type": "city",
+  "name": "Ahome",
+  "full_name": "Ahome, Sinaloa",
+  "country_code": "MX",
+  "country": "Mexico",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      -109.4482596,
+      25.4405928
+     ],
+     [
+      -108.759193,
+      25.4405928
+     ],
+     [
+      -108.759193,
+      26.4032999
+     ],
+     [
+      -109.4482596,
+      26.4032999
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

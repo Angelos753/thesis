@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 02:45:33 +0000 2013",
+ "id": 323990519028006912,
+ "id_str": "323990519028006912",
+ "full_text": "@trevor_mullins oh okay good, I hope so",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  39
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "trevor_mullins",
+    "name": "Trevor Mullins",
+    "id": 392469038,
+    "id_str": "392469038",
+    "indices": [
+     0,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323986312988352512,
+ "in_reply_to_status_id_str": "323986312988352512",
+ "in_reply_to_user_id": 392469038,
+ "in_reply_to_user_id_str": "392469038",
+ "in_reply_to_screen_name": "trevor_mullins",
+ "user": {
+  "id": 601447081,
+  "id_str": "601447081",
+  "name": "Cass",
+  "screen_name": "CassidyRenaud",
+  "location": "Windsor ",
+  "description": "the best things in life are unexpected \u2022 st.clair cyw \u2022 your battle is my battle nana \u2022",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 647,
+  "friends_count": 469,
+  "listed_count": 4,
+  "created_at": "Thu Jun 07 01:24:29 +0000 2012",
+  "favourites_count": 14261,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 40183,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "B576B8",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/942988649750253568/TUGSnO70_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/942988649750253568/TUGSnO70_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/601447081/1513661114",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

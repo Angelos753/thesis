@@ -1,0 +1,102 @@
+{
+ "created_at": "Tue Apr 16 04:52:21 +0000 2013",
+ "id": 324022426172264448,
+ "id_str": "324022426172264448",
+ "full_text": "Of course they will #cray MT \u201c@TheMatthewKeys: Westboro Baptist Church-will picket funerals of those killed by Boston Marathon bombs.\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  134
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "cray",
+    "indices": [
+     20,
+     25
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "TheMatthewKeys",
+    "name": "Matthew Keys",
+    "id": 231317424,
+    "id_str": "231317424",
+    "indices": [
+     30,
+     45
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324021982427500544,
+ "in_reply_to_status_id_str": "324021982427500544",
+ "in_reply_to_user_id": 754485,
+ "in_reply_to_user_id_str": "754485",
+ "in_reply_to_screen_name": "MatthewKeysLive",
+ "user": {
+  "id": 18545983,
+  "id_str": "18545983",
+  "name": "Kelli \u2764\ufe0f Gill",
+  "screen_name": "kelli_gill",
+  "location": "New Coloradoan, Forever Texan",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 411,
+  "friends_count": 1029,
+  "listed_count": 21,
+  "created_at": "Fri Jan 02 05:04:02 +0000 2009",
+  "favourites_count": 2080,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 4852,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5A999",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/779174111016738816/4Kiw9r0R_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/779174111016738816/4Kiw9r0R_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18545983/1538362969",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "6A7D72",
+  "profile_sidebar_border_color": "B9C1B2",
+  "profile_sidebar_fill_color": "D3D4C4",
+  "profile_text_color": "EDBBA2",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

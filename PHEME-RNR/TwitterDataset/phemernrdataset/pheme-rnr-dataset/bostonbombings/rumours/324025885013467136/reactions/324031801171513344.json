@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 05:29:36 +0000 2013",
+ "id": 324031801171513344,
+ "id_str": "324031801171513344",
+ "full_text": "@NewsBreaker Stop reporting on those sick WBC assholes and they'll go away. At least eventually.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  96
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "NewsBreaker",
+    "name": "NewsBreaker",
+    "id": 774393817,
+    "id_str": "774393817",
+    "indices": [
+     0,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324024749229490176,
+ "in_reply_to_status_id_str": "324024749229490176",
+ "in_reply_to_user_id": 774393817,
+ "in_reply_to_user_id_str": "774393817",
+ "in_reply_to_screen_name": "NewsBreaker",
+ "user": {
+  "id": 121814873,
+  "id_str": "121814873",
+  "name": "Bryan Milioti \ud83c\udfc1",
+  "screen_name": "MillsLayne87",
+  "location": "Martinez, CA",
+  "description": "Just a dude who loves his family, racing, music, video games, and the Detroit Lions. That last one is more of a love/hate thing.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 98,
+  "friends_count": 499,
+  "listed_count": 3,
+  "created_at": "Wed Mar 10 17:37:25 +0000 2010",
+  "favourites_count": 593,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2163,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/886132604340019200/G5S6JPNB_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/886132604340019200/G5S6JPNB_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/121814873/1552867394",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

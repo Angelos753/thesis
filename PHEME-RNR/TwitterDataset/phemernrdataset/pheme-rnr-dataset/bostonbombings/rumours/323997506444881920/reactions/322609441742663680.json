@@ -1,0 +1,119 @@
+{
+ "created_at": "Fri Apr 12 07:17:39 +0000 2013",
+ "id": 322609441742663680,
+ "id_str": "322609441742663680",
+ "full_text": "\u201c@Godstagram: Life is good because God is great.\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  49
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Godstagram",
+    "name": "God Almighty",
+    "id": 345328607,
+    "id_str": "345328607",
+    "indices": [
+     1,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 322606415321636864,
+ "in_reply_to_status_id_str": "322606415321636864",
+ "in_reply_to_user_id": 345328607,
+ "in_reply_to_user_id_str": "345328607",
+ "in_reply_to_screen_name": "Godstagram",
+ "user": {
+  "id": 123807454,
+  "id_str": "123807454",
+  "name": "Rom Villanueva",
+  "screen_name": "romzhimself",
+  "location": "Manila",
+  "description": "Life is not an exact science | Multimedia \u2022 Animation | Travel | Psalm 18:1",
+  "url": "https://t.co/QouD1WS4Pg",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/QouD1WS4Pg",
+      "expanded_url": "http://www.instagram.com/romzhimself",
+      "display_url": "instagram.com/romzhimself",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2125,
+  "friends_count": 294,
+  "listed_count": 10,
+  "created_at": "Wed Mar 17 08:21:55 +0000 2010",
+  "favourites_count": 52708,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 60029,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "585A61",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1051041617237303297/NB6VuGiu_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051041617237303297/NB6VuGiu_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/123807454/1552922268",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "2FC2EF",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   14.60620681,
+   121.11463026
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   121.11463026,
+   14.60620681
+  ]
+ },
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

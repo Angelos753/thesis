@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 00:45:41 +0000 2013",
+ "id": 323960352628936704,
+ "id_str": "323960352628936704",
+ "full_text": "@cgindin WSJ is covering it now.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  32
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "cgindin",
+    "name": "\u0915\u093e\u0928\u094d\u091b\u094b \u091b\u094b\u0930\u094b\u2122\u00ae\u00a9",
+    "id": 3419250363,
+    "id_str": "3419250363",
+    "indices": [
+     0,
+     8
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+ "in_reply_to_status_id": 323960135284314113,
+ "in_reply_to_status_id_str": "323960135284314113",
+ "in_reply_to_user_id": 223630945,
+ "in_reply_to_user_id_str": "223630945",
+ "in_reply_to_screen_name": "plungeprotect",
+ "user": {
+  "id": 40099128,
+  "id_str": "40099128",
+  "name": "Brandon Hayward",
+  "screen_name": "VexTrades",
+  "location": "",
+  "description": "Annotated stock charts, Technical signals, Key price levels. Not investment advice. Know what you buy. Risk is implied. Stay humble.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 14784,
+  "friends_count": 123,
+  "listed_count": 481,
+  "created_at": "Thu May 14 22:08:44 +0000 2009",
+  "favourites_count": 11196,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 39834,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3654847038/340531580d97c038db891e1bf2359a29_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3654847038/340531580d97c038db891e1bf2359a29_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/40099128/1401637781",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

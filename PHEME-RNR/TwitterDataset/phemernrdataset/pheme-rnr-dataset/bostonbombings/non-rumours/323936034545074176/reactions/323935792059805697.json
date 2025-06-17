@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 23:08:05 +0000 2013",
+ "id": 323935792059805697,
+ "id_str": "323935792059805697",
+ "full_text": "@Luke5SOS aka it sucked right",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  29
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Luke5SOS",
+    "name": "Luke Hemmings",
+    "id": 403245020,
+    "id_str": "403245020",
+    "indices": [
+     0,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+ "in_reply_to_status_id": 323935749521174528,
+ "in_reply_to_status_id_str": "323935749521174528",
+ "in_reply_to_user_id": 403245020,
+ "in_reply_to_user_id_str": "403245020",
+ "in_reply_to_screen_name": "Luke5SOS",
+ "user": {
+  "id": 561812565,
+  "id_str": "561812565",
+  "name": "Melanie",
+  "screen_name": "xrenaee",
+  "location": "dallas ",
+  "description": "24 // psychology major // momma to a crazy ass boy // jla \ud83d\udc6a",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 9864,
+  "friends_count": 408,
+  "listed_count": 51,
+  "created_at": "Tue Apr 24 04:44:42 +0000 2012",
+  "favourites_count": 44248,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 98387,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1090106937927180289/Lj7NJPxZ_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090106937927180289/Lj7NJPxZ_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/561812565/1548736761",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "6D7572",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "E6F6F9",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 2,
+ "favorite_count": 2,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

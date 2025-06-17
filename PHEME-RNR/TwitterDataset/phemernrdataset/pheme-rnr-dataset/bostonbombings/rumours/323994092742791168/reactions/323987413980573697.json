@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 02:33:13 +0000 2013",
+ "id": 323987413980573697,
+ "id_str": "323987413980573697",
+ "full_text": "@BMacTV There is a special place reserved in hell for them I hope.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  66
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "BMacTV",
+    "name": "Brian MacMillan",
+    "id": 18696568,
+    "id_str": "18696568",
+    "indices": [
+     0,
+     7
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323986920327745537,
+ "in_reply_to_status_id_str": "323986920327745537",
+ "in_reply_to_user_id": 18696568,
+ "in_reply_to_user_id_str": "18696568",
+ "in_reply_to_screen_name": "BMacTV",
+ "user": {
+  "id": 17181686,
+  "id_str": "17181686",
+  "name": "Christiana Mayer",
+  "screen_name": "ChristianaMayer",
+  "location": "Oregon",
+  "description": "Mama by Adoption \u2022 Widow \u2022 Cat Owner Ovarian Cancer and Brain Aneurysm Survivor \u2022 Reader \u2022 Writer #mightymamasbyadoption",
+  "url": "https://t.co/pj4CBXRrk1",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/pj4CBXRrk1",
+      "expanded_url": "http://about.me/cmayer",
+      "display_url": "about.me/cmayer",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 820,
+  "friends_count": 663,
+  "listed_count": 64,
+  "created_at": "Wed Nov 05 04:31:43 +0000 2008",
+  "favourites_count": 3015,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 14975,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "352726",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1086802513397874688/v5Kds_As_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086802513397874688/v5Kds_As_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/17181686/1547950246",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "89C9FA",
+  "profile_sidebar_border_color": "829D5E",
+  "profile_sidebar_fill_color": "99CC33",
+  "profile_text_color": "3E4415",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

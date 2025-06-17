@@ -1,0 +1,91 @@
+{
+ "created_at": "Tue Apr 16 17:04:28 +0000 2013",
+ "id": 324206670370705410,
+ "id_str": "324206670370705410",
+ "full_text": "@robini71 I know, that's what I mean.  I would be surprised if they weren't so flawed in their beliefs, but because they are, I'm not.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  134
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "robini71",
+    "name": "Robin Frost",
+    "id": 51340540,
+    "id_str": "51340540",
+    "indices": [
+     0,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://erased1341238.com\" rel=\"nofollow\">erased1341238</a>",
+ "in_reply_to_status_id": 324205298984308736,
+ "in_reply_to_status_id_str": "324205298984308736",
+ "in_reply_to_user_id": 51340540,
+ "in_reply_to_user_id_str": "51340540",
+ "in_reply_to_screen_name": "robini71",
+ "user": {
+  "id": 101045686,
+  "id_str": "101045686",
+  "name": "Tammy Burleigh",
+  "screen_name": "tcl189",
+  "location": "43.151956,-80.239463",
+  "description": "I am Tammy, mother of Colyn 4 and Remus 10 months, and I can always do with another friend or 100.  I'm fun, outgoing, and I don't bite unless you want me to.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 204,
+  "friends_count": 155,
+  "listed_count": 14,
+  "created_at": "Fri Jan 01 19:53:31 +0000 2010",
+  "favourites_count": 2,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 27217,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": true,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

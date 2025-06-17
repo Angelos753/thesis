@@ -1,0 +1,92 @@
+{
+ "created_at": "Tue Apr 16 01:31:45 +0000 2013",
+ "id": 323971945320304640,
+ "id_str": "323971945320304640",
+ "full_text": "@CEgglesfield Thankgod for your necies communion, god works in funny ways",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  73
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "CEgglesfield",
+    "name": "Colin Egglesfield",
+    "id": 68878806,
+    "id_str": "68878806",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+ "in_reply_to_status_id": 323936314141577216,
+ "in_reply_to_status_id_str": "323936314141577216",
+ "in_reply_to_user_id": 68878806,
+ "in_reply_to_user_id_str": "68878806",
+ "in_reply_to_screen_name": "CEgglesfield",
+ "user": {
+  "id": 363133778,
+  "id_str": "363133778",
+  "name": "Meghan_Payne",
+  "screen_name": "wmchanges125",
+  "location": "",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 6,
+  "friends_count": 13,
+  "listed_count": 0,
+  "created_at": "Sat Aug 27 15:47:25 +0000 2011",
+  "favourites_count": 8,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 123,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3525549475/112733a99c5083c98e3cc19290dc505a_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3525549475/112733a99c5083c98e3cc19290dc505a_normal.jpeg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

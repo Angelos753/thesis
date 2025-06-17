@@ -1,0 +1,126 @@
+{
+ "created_at": "Mon Apr 15 20:29:38 +0000 2013",
+ "id": 323895914924212224,
+ "id_str": "323895914924212224",
+ "full_text": "\u201c@AP: US official: 2 more explosives found at Boston marathon: http://t.co/rj0ejySI7H -CC\u201d #BostonMararthon",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  107
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "BostonMararthon",
+    "indices": [
+     91,
+     107
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "AP",
+    "name": "The Associated Press",
+    "id": 51241574,
+    "id_str": "51241574",
+    "indices": [
+     1,
+     4
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/rj0ejySI7H",
+    "expanded_url": "http://apne.ws/XNzCeC",
+    "display_url": "apne.ws/XNzCeC",
+    "indices": [
+     63,
+     85
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323895606743556097,
+ "in_reply_to_status_id_str": "323895606743556097",
+ "in_reply_to_user_id": 51241574,
+ "in_reply_to_user_id_str": "51241574",
+ "in_reply_to_screen_name": "AP",
+ "user": {
+  "id": 228874251,
+  "id_str": "228874251",
+  "name": "Barra Best",
+  "screen_name": "barrabest",
+  "location": "Belfast, Ireland",
+  "description": "BBC TV & Weather Presenter \u2600\ufe0f\ud83c\udf27\u2603\ufe0f @bbcnewsline \ud83d\udcfa @bbcradioulster \ud83d\udcfb @bbcnewsni \ud83d\udcbbWorld traveller\u2708\ufe0f Host/MC \ud83c\udfa4barra.best@bbc.co.uk",
+  "url": "https://t.co/0mD4G6NZ3A",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/0mD4G6NZ3A",
+      "expanded_url": "http://www.bbc.co.uk/programmes/b09tnbth",
+      "display_url": "bbc.co.uk/programmes/b09\u2026",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 79942,
+  "friends_count": 5281,
+  "listed_count": 430,
+  "created_at": "Mon Dec 20 22:42:22 +0000 2010",
+  "favourites_count": 118342,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 104694,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F0F0F0",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1062414964181360646/UgPyT-7s_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062414964181360646/UgPyT-7s_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/228874251/1542443676",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "203E92",
+  "profile_text_color": "9A9A9A",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 4,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

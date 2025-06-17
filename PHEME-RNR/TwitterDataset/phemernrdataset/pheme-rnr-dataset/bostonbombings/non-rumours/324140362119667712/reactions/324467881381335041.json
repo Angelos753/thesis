@@ -1,0 +1,100 @@
+{
+ "created_at": "Wed Apr 17 10:22:25 +0000 2013",
+ "id": 324467881381335041,
+ "id_str": "324467881381335041",
+ "full_text": "RT @Ericthomasbtc: If you're doing it right, the journey should be fun, not stressful. #Success",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  95
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Success",
+    "indices": [
+     87,
+     95
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Ericthomasbtc",
+    "name": "Eric Thomas",
+    "id": 119068103,
+    "id_str": "119068103",
+    "indices": [
+     3,
+     17
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+ "in_reply_to_status_id": 324108056583602176,
+ "in_reply_to_status_id_str": "324108056583602176",
+ "in_reply_to_user_id": 119068103,
+ "in_reply_to_user_id_str": "119068103",
+ "in_reply_to_screen_name": "Ericthomasbtc",
+ "user": {
+  "id": 19506833,
+  "id_str": "19506833",
+  "name": "DeAndre Thomas Sr.",
+  "screen_name": "DreThomasSr",
+  "location": "Nashville, TN",
+  "description": "Dad, Philanthropist, Coach, Realtor & Investor... In that order!",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 220,
+  "friends_count": 551,
+  "listed_count": 2,
+  "created_at": "Sun Jan 25 21:52:46 +0000 2009",
+  "favourites_count": 116,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 489,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/614087690577784832/AUdwltJU_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/614087690577784832/AUdwltJU_normal.jpg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

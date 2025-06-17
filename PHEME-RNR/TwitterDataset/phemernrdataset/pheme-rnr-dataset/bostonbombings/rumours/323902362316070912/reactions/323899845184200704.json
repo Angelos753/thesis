@@ -1,0 +1,93 @@
+{
+ "created_at": "Mon Apr 15 20:45:15 +0000 2013",
+ "id": 323899845184200704,
+ "id_str": "323899845184200704",
+ "full_text": "@th3j35t3r rough pictures my friend. War torn type pictures.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  60
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "th3j35t3r",
+    "name": "J\u039eS\u0166\u039eR \u272a \u0394C\u0166U\u0394L\u00b3\u00b3\u00ba\u00b9",
+    "id": 97994396,
+    "id_str": "97994396",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323899432305295360,
+ "in_reply_to_status_id_str": "323899432305295360",
+ "in_reply_to_user_id": 97994396,
+ "in_reply_to_user_id_str": "97994396",
+ "in_reply_to_screen_name": "th3j35t3r",
+ "user": {
+  "id": 1355234593,
+  "id_str": "1355234593",
+  "name": "TurkMandrake01",
+  "screen_name": "TurkMandrake01",
+  "location": "",
+  "description": "#LEGION \r\nMandrakeBACKUP",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2,
+  "friends_count": 42,
+  "listed_count": 0,
+  "created_at": "Mon Apr 15 20:04:15 +0000 2013",
+  "favourites_count": 1,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 111,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3527674580/ac180c7bed2efb3bc9ed851107da7931_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3527674580/ac180c7bed2efb3bc9ed851107da7931_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355234593/1366083398",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

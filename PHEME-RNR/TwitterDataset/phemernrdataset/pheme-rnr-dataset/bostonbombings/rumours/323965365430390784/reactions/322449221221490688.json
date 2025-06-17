@@ -1,0 +1,143 @@
+{
+ "created_at": "Thu Apr 11 20:40:59 +0000 2013",
+ "id": 322449221221490688,
+ "id_str": "322449221221490688",
+ "full_text": "@ThaBieberCrew @justinbieber \nCheck out the WORLD PREMIERE of @itsALEXAonline - #TwitterSong \nhttp://t.co/Dp6OQOcrxf\n#dancelife \n#NYC #LA",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  137
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "TwitterSong",
+    "indices": [
+     80,
+     92
+    ]
+   },
+   {
+    "text": "dancelife",
+    "indices": [
+     117,
+     127
+    ]
+   },
+   {
+    "text": "NYC",
+    "indices": [
+     129,
+     133
+    ]
+   },
+   {
+    "text": "LA",
+    "indices": [
+     134,
+     137
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "ThaBieberCrew",
+    "name": "-",
+    "id": 272354480,
+    "id_str": "272354480",
+    "indices": [
+     0,
+     14
+    ]
+   },
+   {
+    "screen_name": "justinbieber",
+    "name": "Justin Bieber",
+    "id": 27260086,
+    "id_str": "27260086",
+    "indices": [
+     15,
+     28
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/Dp6OQOcrxf",
+    "expanded_url": "http://youtu.be/ADSljMZF6JI",
+    "display_url": "youtu.be/ADSljMZF6JI",
+    "indices": [
+     94,
+     116
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 322410927087579136,
+ "in_reply_to_status_id_str": "322410927087579136",
+ "in_reply_to_user_id": 272354480,
+ "in_reply_to_user_id_str": "272354480",
+ "in_reply_to_screen_name": "ThaBieberCrew",
+ "user": {
+  "id": 1016147994,
+  "id_str": "1016147994",
+  "name": "A lo Ha",
+  "screen_name": "ScmSuknRoadHor",
+  "location": "",
+  "description": "| #InstantFollowBack | #TeamAutoFollow | #TFB #TeamFollowBack #TeamFollow #500aDay #F4F #Follow #RT",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 15,
+  "friends_count": 130,
+  "listed_count": 0,
+  "created_at": "Sun Dec 16 21:52:48 +0000 2012",
+  "favourites_count": 4,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 42,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000059651924/da105c3af16f408bb871669dfeeff4d0_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000059651924/da105c3af16f408bb871669dfeeff4d0_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016147994/1355884305",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

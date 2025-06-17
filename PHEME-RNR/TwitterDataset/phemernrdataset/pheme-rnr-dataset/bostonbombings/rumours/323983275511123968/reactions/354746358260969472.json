@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Jul 09 23:38:17 +0000 2013",
+ "id": 354746358260969472,
+ "id_str": "354746358260969472",
+ "full_text": "\u201c@Country_Words: I live to love and laugh a lot, and that's all I need. -Kenny Chesney\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  87
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Country_Words",
+    "name": "Country Words",
+    "id": 453510918,
+    "id_str": "453510918",
+    "indices": [
+     1,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323982847360786434,
+ "in_reply_to_status_id_str": "323982847360786434",
+ "in_reply_to_user_id": 453510918,
+ "in_reply_to_user_id_str": "453510918",
+ "in_reply_to_screen_name": "Country_Words",
+ "user": {
+  "id": 1545986358,
+  "id_str": "1545986358",
+  "name": "Mariah Usry\u2661",
+  "screen_name": "mariah_usry",
+  "location": "Newton, MS",
+  "description": "Ephesians 3:20 \ud83d\udc9b Be in love with your life, every minute of it. \u2741",
+  "url": "https://t.co/A9xFoYSNO6",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/A9xFoYSNO6",
+      "expanded_url": "http://vsco.co/mariahmunday",
+      "display_url": "vsco.co/mariahmunday",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 485,
+  "friends_count": 485,
+  "listed_count": 1,
+  "created_at": "Tue Jun 25 15:30:29 +0000 2013",
+  "favourites_count": 7250,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 4148,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "0099B9",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/962418525762719744/Y4CxYsxO_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/962418525762719744/Y4CxYsxO_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545986358/1518293435",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0099B9",
+  "profile_sidebar_border_color": "5ED4DC",
+  "profile_sidebar_fill_color": "95E8EC",
+  "profile_text_color": "3C3940",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

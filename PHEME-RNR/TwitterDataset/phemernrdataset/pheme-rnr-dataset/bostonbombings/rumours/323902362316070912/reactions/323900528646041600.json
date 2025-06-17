@@ -1,0 +1,100 @@
+{
+ "created_at": "Mon Apr 15 20:47:58 +0000 2013",
+ "id": 323900528646041600,
+ "id_str": "323900528646041600",
+ "full_text": "@th3j35t3r one of many reasons why I favor you to anonymous, you have a conscious where they do not #realtalk",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  109
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "realtalk",
+    "indices": [
+     100,
+     109
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "th3j35t3r",
+    "name": "J\u039eS\u0166\u039eR \u272a \u0394C\u0166U\u0394L\u00b3\u00b3\u00ba\u00b9",
+    "id": 97994396,
+    "id_str": "97994396",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323899432305295360,
+ "in_reply_to_status_id_str": "323899432305295360",
+ "in_reply_to_user_id": 97994396,
+ "in_reply_to_user_id_str": "97994396",
+ "in_reply_to_screen_name": "th3j35t3r",
+ "user": {
+  "id": 1240318148,
+  "id_str": "1240318148",
+  "name": "Bryson Simerly",
+  "screen_name": "BrysonSimerly",
+  "location": "",
+  "description": "All we are asked to bear, we can bear. That is the law of the spiritual life. The only hindrance to the working of this law, as of all benign laws, is fear.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 82,
+  "friends_count": 63,
+  "listed_count": 0,
+  "created_at": "Mon Mar 04 02:30:15 +0000 2013",
+  "favourites_count": 5301,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 1857,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3754303747/4b5e9979367d87c8709c42d03a3db434_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3754303747/4b5e9979367d87c8709c42d03a3db434_normal.jpeg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

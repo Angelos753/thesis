@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 05:23:26 +0000 2013",
+ "id": 324030251099377664,
+ "id_str": "324030251099377664",
+ "full_text": "@MIKEBOCCHETTI you got it, bud! What a horrible tragedy :(",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  58
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "MIKEBOCCHETTI",
+    "name": "MIKE BOCCHETTI",
+    "id": 614868908,
+    "id_str": "614868908",
+    "indices": [
+     0,
+     14
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+ "in_reply_to_status_id": 324027966105468928,
+ "in_reply_to_status_id_str": "324027966105468928",
+ "in_reply_to_user_id": 614868908,
+ "in_reply_to_user_id_str": "614868908",
+ "in_reply_to_screen_name": "MIKEBOCCHETTI",
+ "user": {
+  "id": 511448842,
+  "id_str": "511448842",
+  "name": "Tracy Robert Young",
+  "screen_name": "tracy42469",
+  "location": "Baltimore, MD. Montrose, PA.",
+  "description": "Joker.Orioles, Ravens, writing, camping, KISS, Beatles, 80's music,family & friends. LOST, SNL, comedy, mystery, action,",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 51,
+  "friends_count": 245,
+  "listed_count": 1,
+  "created_at": "Fri Mar 02 06:00:16 +0000 2012",
+  "favourites_count": 76,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2352,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/857418965500534784/GU3o1rsq_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/857418965500534784/GU3o1rsq_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/511448842/1375301520",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

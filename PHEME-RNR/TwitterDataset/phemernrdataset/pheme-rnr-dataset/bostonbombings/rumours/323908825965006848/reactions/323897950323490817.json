@@ -1,0 +1,118 @@
+{
+ "created_at": "Mon Apr 15 20:37:43 +0000 2013",
+ "id": 323897950323490817,
+ "id_str": "323897950323490817",
+ "full_text": "Horrifying news. RT @nypost: Breaking: Boston police confirm another explosion at JFK Library http://t.co/kdYaxieYuP",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  116
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "nypost",
+    "name": "New York Post",
+    "id": 17469289,
+    "id_str": "17469289",
+    "indices": [
+     20,
+     27
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/kdYaxieYuP",
+    "expanded_url": "http://nyp.st/XNAkbX",
+    "display_url": "nyp.st/XNAkbX",
+    "indices": [
+     94,
+     116
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323897277569695747,
+ "in_reply_to_status_id_str": "323897277569695747",
+ "in_reply_to_user_id": 17469289,
+ "in_reply_to_user_id_str": "17469289",
+ "in_reply_to_screen_name": "nypost",
+ "user": {
+  "id": 34114941,
+  "id_str": "34114941",
+  "name": "The Carroll News",
+  "screen_name": "TheCarrollNews",
+  "location": "University Heights, Ohio",
+  "description": "The News that Keeps Us Onward On! The award-winning student newspaper of @JohnCarrollU.",
+  "url": "https://t.co/Yw9Mz0WwGr",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/Yw9Mz0WwGr",
+      "expanded_url": "http://carrollnews.org",
+      "display_url": "carrollnews.org",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1342,
+  "friends_count": 202,
+  "listed_count": 27,
+  "created_at": "Wed Apr 22 00:46:49 +0000 2009",
+  "favourites_count": 212,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2033,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "003D6D",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1042185899239325696/TSbaSU4y_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042185899239325696/TSbaSU4y_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/34114941/1485831514",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0987DB",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

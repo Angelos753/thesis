@@ -1,0 +1,107 @@
+{
+ "created_at": "Mon Apr 15 22:08:49 +0000 2013",
+ "id": 323920876003282944,
+ "id_str": "323920876003282944",
+ "full_text": "@kerrywashington Olivia pope would be right on scene!",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  53
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "kerrywashington",
+    "name": "kerry washington",
+    "id": 205302299,
+    "id_str": "205302299",
+    "indices": [
+     0,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 323917317287333888,
+ "in_reply_to_status_id_str": "323917317287333888",
+ "in_reply_to_user_id": 205302299,
+ "in_reply_to_user_id_str": "205302299",
+ "in_reply_to_screen_name": "kerrywashington",
+ "user": {
+  "id": 132476742,
+  "id_str": "132476742",
+  "name": "Michaela",
+  "screen_name": "lifeofaladybear",
+  "location": "New York, USA",
+  "description": "Fashion & Lifestyle Blogger || Irish girl in NYC \u2618 || Social at @teenvogue Previously @MTV || \ud83d\udc7b: michaelabear1 lifeofaladybear@gmail.com",
+  "url": "https://t.co/PliOujEdn5",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/PliOujEdn5",
+      "expanded_url": "http://www.lifeofaladybear.com",
+      "display_url": "lifeofaladybear.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2013,
+  "friends_count": 1007,
+  "listed_count": 37,
+  "created_at": "Tue Apr 13 10:16:37 +0000 2010",
+  "favourites_count": 7303,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 6744,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/729482469200769026/ZIgvOuG__normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/729482469200769026/ZIgvOuG__normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/132476742/1462757360",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "F58EA8",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

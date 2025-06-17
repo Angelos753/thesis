@@ -1,0 +1,96 @@
+{
+ "created_at": "Tue Apr 16 04:32:23 +0000 2013",
+ "id": 324017403732320256,
+ "id_str": "324017403732320256",
+ "full_text": "@raaviek_13 oh so it was planned?",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  33
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324017269208395777,
+ "in_reply_to_status_id_str": "324017269208395777",
+ "in_reply_to_user_id": 943756532,
+ "in_reply_to_user_id_str": "943756532",
+ "in_reply_to_screen_name": "Ravie_Kaur",
+ "user": {
+  "id": 478308221,
+  "id_str": "478308221",
+  "name": "Gurpreet Bhopal",
+  "screen_name": "Sharook_Knows24",
+  "location": "San Marcos, TX",
+  "description": "First things first rest in peace @Lunsford_nathan |California\u2708\ufe0fDFW | The World Is Yours | \ud83c\uddee\ud83c\uddf3",
+  "url": "https://t.co/uJXGauNUiV",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/uJXGauNUiV",
+      "expanded_url": "https://Instagram.com/_gurpreetbhopal",
+      "display_url": "Instagram.com/_gurpreetbhopal",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 994,
+  "friends_count": 564,
+  "listed_count": 3,
+  "created_at": "Mon Jan 30 04:16:03 +0000 2012",
+  "favourites_count": 27368,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 22430,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1060796057968357376/BAuLq8Rn_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060796057968357376/BAuLq8Rn_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/478308221/1526262813",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

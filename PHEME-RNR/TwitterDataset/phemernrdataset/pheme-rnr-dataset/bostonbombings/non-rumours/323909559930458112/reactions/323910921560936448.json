@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 21:29:16 +0000 2013",
+ "id": 323910921560936448,
+ "id_str": "323910921560936448",
+ "full_text": "@NowWithAlex well stated,i concur",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  33
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "NowWithAlex",
+    "name": "NowWithAlex",
+    "id": 409456907,
+    "id_str": "409456907",
+    "indices": [
+     0,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323909301305479168,
+ "in_reply_to_status_id_str": "323909301305479168",
+ "in_reply_to_user_id": 409456907,
+ "in_reply_to_user_id_str": "409456907",
+ "in_reply_to_screen_name": "NowWithAlex",
+ "user": {
+  "id": 72035030,
+  "id_str": "72035030",
+  "name": "LARRY JERNIGAN",
+  "screen_name": "LARRYJAILGUARD",
+  "location": "Chicago",
+  "description": "Liberal,Comic take on What's going on in our World,not our Heads!,Welcome to the Political Thunderdome",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1174,
+  "friends_count": 1905,
+  "listed_count": 47,
+  "created_at": "Sun Sep 06 13:34:31 +0000 2009",
+  "favourites_count": 116,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 51384,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "447467",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3441063051/7e639ba1ac10188bce66c00215bf1d92_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3441063051/7e639ba1ac10188bce66c00215bf1d92_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/72035030/1364450777",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "447467",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "56A0DE",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

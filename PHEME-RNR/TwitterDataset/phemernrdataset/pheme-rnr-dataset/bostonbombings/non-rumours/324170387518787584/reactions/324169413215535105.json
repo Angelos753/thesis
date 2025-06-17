@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 14:36:25 +0000 2013",
+ "id": 324169413215535105,
+ "id_str": "324169413215535105",
+ "full_text": "HI @AnneV I love you :)",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  23
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "AnneV",
+    "name": "Anne V",
+    "id": 26148323,
+    "id_str": "26148323",
+    "indices": [
+     3,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 324169278901342208,
+ "in_reply_to_status_id_str": "324169278901342208",
+ "in_reply_to_user_id": 26148323,
+ "in_reply_to_user_id_str": "26148323",
+ "in_reply_to_screen_name": "AnneV",
+ "user": {
+  "id": 839156288,
+  "id_str": "839156288",
+  "name": "gabe",
+  "screen_name": "danetteorlido",
+  "location": "palawan - dlsu",
+  "description": "she\u2019s probably out there creating her own destiny",
+  "url": "https://t.co/8P7kzwBLdU",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/8P7kzwBLdU",
+      "expanded_url": "http://Instagram.com/danetteorlido",
+      "display_url": "Instagram.com/danetteorlido",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1134,
+  "friends_count": 445,
+  "listed_count": 3,
+  "created_at": "Sat Sep 22 05:37:34 +0000 2012",
+  "favourites_count": 23038,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 20620,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "DE2889",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1078610054830448640/qKIinObO_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078610054830448640/qKIinObO_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/839156288/1546088368",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "8F1313",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

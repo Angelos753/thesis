@@ -1,0 +1,113 @@
+{
+ "created_at": "Tue Apr 16 14:21:04 +0000 2013",
+ "id": 324165549909217281,
+ "id_str": "324165549909217281",
+ "full_text": "spot on. RT @BostonBizNews 'Boston's beloved day, dissolved in chaos and tears' http://t.co/1kSq1blBRj  AP's @adgeller gets it right.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  133
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "BostonBizNews",
+    "name": "Tech Daily News",
+    "id": 3218725900,
+    "id_str": "3218725900",
+    "indices": [
+     12,
+     26
+    ]
+   },
+   {
+    "screen_name": "adgeller",
+    "name": "Adam Geller",
+    "id": 105182200,
+    "id_str": "105182200",
+    "indices": [
+     109,
+     118
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/1kSq1blBRj",
+    "expanded_url": "http://ow.ly/k6MZF",
+    "display_url": "ow.ly/k6MZF",
+    "indices": [
+     80,
+     102
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324142404741496832,
+ "in_reply_to_status_id_str": "324142404741496832",
+ "in_reply_to_user_id": 44155214,
+ "in_reply_to_user_id_str": "44155214",
+ "in_reply_to_screen_name": "BosBizEvents",
+ "user": {
+  "id": 30097677,
+  "id_str": "30097677",
+  "name": "Amanda",
+  "screen_name": "amandakelly4",
+  "location": "Boston, MA",
+  "description": "communications aficionado & coffee addict. lover of all things local, urban gardening, brunch, wine, & my darling pup & kid.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 868,
+  "friends_count": 1693,
+  "listed_count": 49,
+  "created_at": "Thu Apr 09 23:34:48 +0000 2009",
+  "favourites_count": 3809,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 7502,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/799382734036729856/dbyTwAkk_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/799382734036729856/dbyTwAkk_normal.jpg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "919799",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

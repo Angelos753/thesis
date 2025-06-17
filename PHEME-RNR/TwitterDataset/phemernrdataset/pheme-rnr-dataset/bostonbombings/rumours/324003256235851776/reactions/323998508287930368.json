@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 03:17:18 +0000 2013",
+ "id": 323998508287930368,
+ "id_str": "323998508287930368",
+ "full_text": "@WBCFliers I hope you all realize that you're the ones who will burn in hell for saying and doing horrible things like this",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  123
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "WBCFliers",
+    "name": "WBC Press Releases",
+    "id": 83469247,
+    "id_str": "83469247",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323992820232880128,
+ "in_reply_to_status_id_str": "323992820232880128",
+ "in_reply_to_user_id": 83469247,
+ "in_reply_to_user_id_str": "83469247",
+ "in_reply_to_screen_name": "WBCFliers",
+ "user": {
+  "id": 76750427,
+  "id_str": "76750427",
+  "name": "Zach Daniel",
+  "screen_name": "zachanddietcoke",
+  "location": "Is there life on Mars?",
+  "description": "I love Beyonc\u00e9 more than I love my family",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 177,
+  "friends_count": 551,
+  "listed_count": 4,
+  "created_at": "Wed Sep 23 20:42:11 +0000 2009",
+  "favourites_count": 497,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 3261,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "0A0A0A",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1002299002119970817/WO8m6FWu_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002299002119970817/WO8m6FWu_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/76750427/1510031811",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0EE8F0",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FCFCFC",
+  "profile_text_color": "050505",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

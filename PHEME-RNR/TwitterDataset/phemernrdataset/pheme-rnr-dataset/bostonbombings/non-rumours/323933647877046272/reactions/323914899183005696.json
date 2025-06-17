@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 21:45:04 +0000 2013",
+ "id": 323914899183005696,
+ "id_str": "323914899183005696",
+ "full_text": "@ANew92 I hate what's happening I really do!",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  44
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "anew92",
+    "name": "Alex nowe",
+    "id": 3114176581,
+    "id_str": "3114176581",
+    "indices": [
+     0,
+     7
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+ "in_reply_to_status_id": 323887780419731456,
+ "in_reply_to_status_id_str": "323887780419731456",
+ "in_reply_to_user_id": 40937731,
+ "in_reply_to_user_id_str": "40937731",
+ "in_reply_to_screen_name": "thealexnewell",
+ "user": {
+  "id": 603720235,
+  "id_str": "603720235",
+  "name": "GleeLightUpTheWorld",
+  "screen_name": "StayWithMeGlee",
+  "location": "Laughing in heaven with Cory",
+  "description": "- 19\u270c\ufe0fgleek-God loves you and he wont never leave you like others--Britney Spears 24-9-11- Iqbal Theba tweeted me on my birthday! Monchele shipper-CORY MY HERO",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 4293,
+  "friends_count": 1639,
+  "listed_count": 18,
+  "created_at": "Sat Jun 09 16:01:16 +0000 2012",
+  "favourites_count": 7647,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 30380,
+  "lang": "es",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "DBE9ED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3628194493/a691bdc8fbd72ab1f076fbf9860f21f0_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3628194493/a691bdc8fbd72ab1f076fbf9860f21f0_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/603720235/1360935696",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "CC3366",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

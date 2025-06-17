@@ -1,0 +1,138 @@
+{
+ "created_at": "Tue Apr 16 02:59:17 +0000 2013",
+ "id": 323993973171572736,
+ "id_str": "323993973171572736",
+ "full_text": "@calesss12 me too!!! See you in an hour love youuu",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  50
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "calesss12",
+    "name": "Caleigh",
+    "id": 733325503,
+    "id_str": "733325503",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323989683216453633,
+ "in_reply_to_status_id_str": "323989683216453633",
+ "in_reply_to_user_id": 733325503,
+ "in_reply_to_user_id_str": "733325503",
+ "in_reply_to_screen_name": "calesss12",
+ "user": {
+  "id": 518558430,
+  "id_str": "518558430",
+  "name": "Patricia Mehan",
+  "screen_name": "trishy003",
+  "location": "",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 50,
+  "friends_count": 155,
+  "listed_count": 0,
+  "created_at": "Thu Mar 08 14:45:10 +0000 2012",
+  "favourites_count": 455,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 1143,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000468123040/4cc4c264733b00bc38f3193023c55e99_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000468123040/4cc4c264733b00bc38f3193023c55e99_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/518558430/1360759613",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   42.36176756,
+   -71.01873762
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   -71.01873762,
+   42.36176756
+  ]
+ },
+ "place": {
+  "id": "67b98f17fdcf20be",
+  "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+  "place_type": "city",
+  "name": "Boston",
+  "full_name": "Boston, MA",
+  "country_code": "US",
+  "country": "United States",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      -71.191421,
+      42.227797
+     ],
+     [
+      -70.986004,
+      42.227797
+     ],
+     [
+      -70.986004,
+      42.399542
+     ],
+     [
+      -71.191421,
+      42.399542
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,122 @@
+{
+ "created_at": "Mon Apr 15 21:13:45 +0000 2013",
+ "id": 323907018257735680,
+ "id_str": "323907018257735680",
+ "full_text": "@CBCAlerts #Boston #Marathon Thoughts and prayers out to everyone involved.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  75
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Boston",
+    "indices": [
+     11,
+     18
+    ]
+   },
+   {
+    "text": "Marathon",
+    "indices": [
+     19,
+     28
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "CBCAlerts",
+    "name": "CBC News Alerts",
+    "id": 19038934,
+    "id_str": "19038934",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323900534446755840,
+ "in_reply_to_status_id_str": "323900534446755840",
+ "in_reply_to_user_id": 19038934,
+ "in_reply_to_user_id_str": "19038934",
+ "in_reply_to_screen_name": "CBCAlerts",
+ "user": {
+  "id": 167269275,
+  "id_str": "167269275",
+  "name": "John Szustaczek",
+  "screen_name": "johnszu",
+  "location": "Ontario, Canada",
+  "description": "Husband & Dad 1st; President of Ultumum Inc & The UltuCup. We men need to Step Up & be better! We're all human beings, more same than different.",
+  "url": "https://t.co/w7u8VCQ19w",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/w7u8VCQ19w",
+      "expanded_url": "http://ultucup.com",
+      "display_url": "ultucup.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 53,
+  "friends_count": 38,
+  "listed_count": 4,
+  "created_at": "Fri Jul 16 04:26:35 +0000 2010",
+  "favourites_count": 1858,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 892,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000650678850/db860882677cd3ba61537f6a76eb1166_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000650678850/db860882677cd3ba61537f6a76eb1166_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/167269275/1457808131",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

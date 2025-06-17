@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 20:35:49 +0000 2013",
+ "id": 323897472688726017,
+ "id_str": "323897472688726017",
+ "full_text": "@samanthajferris yes, I thought that my day sucked, then turned on the news. My prayers go out to Boston!",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  105
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "samanthajferris",
+    "name": "Samantha Ferris",
+    "id": 148068977,
+    "id_str": "148068977",
+    "indices": [
+     0,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323896959020724224,
+ "in_reply_to_status_id_str": "323896959020724224",
+ "in_reply_to_user_id": 148068977,
+ "in_reply_to_user_id_str": "148068977",
+ "in_reply_to_screen_name": "samanthajferris",
+ "user": {
+  "id": 60286584,
+  "id_str": "60286584",
+  "name": "Rise",
+  "screen_name": "RisenShine22",
+  "location": "",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 444,
+  "friends_count": 1538,
+  "listed_count": 22,
+  "created_at": "Sun Jul 26 11:27:03 +0000 2009",
+  "favourites_count": 12403,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 13268,
+  "lang": "de",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1067874973765771265/lf4zO_U8_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067874973765771265/lf4zO_U8_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/60286584/1548144971",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "91D2FA",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

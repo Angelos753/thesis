@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 16:58:42 +0000 2013",
+ "id": 324205220454350848,
+ "id_str": "324205220454350848",
+ "full_text": "@Fit4LifeLLC with dinky and Jeff",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  32
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Fit4LifeLLC",
+    "name": "Grant Hughes",
+    "id": 37695710,
+    "id_str": "37695710",
+    "indices": [
+     0,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324204859236687872,
+ "in_reply_to_status_id_str": "324204859236687872",
+ "in_reply_to_user_id": 37695710,
+ "in_reply_to_user_id_str": "37695710",
+ "in_reply_to_screen_name": "Fit4LifeLLC",
+ "user": {
+  "id": 711286188,
+  "id_str": "711286188",
+  "name": "Carol Davis",
+  "screen_name": "hotty_toddy10",
+  "location": "",
+  "description": "Calhoun City/Biloxi. Ole Miss grad. Hotty Toddy and Who Dat.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 589,
+  "friends_count": 492,
+  "listed_count": 10,
+  "created_at": "Sun Jul 22 21:20:36 +0000 2012",
+  "favourites_count": 13861,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 14524,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/757789495030755328/DUD1c4Ox_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/757789495030755328/DUD1c4Ox_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/711286188/1440558332",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

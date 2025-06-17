@@ -1,0 +1,92 @@
+{
+ "created_at": "Tue Apr 16 16:25:33 +0000 2013",
+ "id": 324196877346156544,
+ "id_str": "324196877346156544",
+ "full_text": "@yonkersoem40 yeah. Saw that come up after my tweet.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  52
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "yonkersoem40",
+    "name": "YONKERS   OEM 40",
+    "id": 263484216,
+    "id_str": "263484216",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324196649905823744,
+ "in_reply_to_status_id_str": "324196649905823744",
+ "in_reply_to_user_id": 263484216,
+ "in_reply_to_user_id_str": "263484216",
+ "in_reply_to_screen_name": "yonkersoem40",
+ "user": {
+  "id": 70328819,
+  "id_str": "70328819",
+  "name": "Hans Riser",
+  "screen_name": "Battalion2CERT",
+  "location": "",
+  "description": "Disaster preparedness volunteer. Working towards getting into the Emergency Management field. #CERT #SMEM #stormspotter.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 750,
+  "friends_count": 1171,
+  "listed_count": 39,
+  "created_at": "Mon Aug 31 06:31:55 +0000 2009",
+  "favourites_count": 717,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 3204,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1584594388/image_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1584594388/image_normal.jpg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

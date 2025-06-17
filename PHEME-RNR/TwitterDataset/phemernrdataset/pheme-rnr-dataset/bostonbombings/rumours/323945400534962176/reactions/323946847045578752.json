@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 23:52:01 +0000 2013",
+ "id": 323946847045578752,
+ "id_str": "323946847045578752",
+ "full_text": "@bbiebercyrus youre right, I looked up that fun run and it not for another month",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  80
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "bbiebercyrus",
+    "name": "-",
+    "id": 1627102134,
+    "id_str": "1627102134",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 323945400534962176,
+ "in_reply_to_status_id_str": "323945400534962176",
+ "in_reply_to_user_id": 111740713,
+ "in_reply_to_user_id_str": "111740713",
+ "in_reply_to_screen_name": "biebwolff",
+ "user": {
+  "id": 324114351,
+  "id_str": "324114351",
+  "name": "imogen",
+  "screen_name": "imogensut",
+  "location": "nz // ig: imogen.sutcliffe",
+  "description": "big dreams built here",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 4467,
+  "friends_count": 98,
+  "listed_count": 48,
+  "created_at": "Sun Jun 26 01:22:03 +0000 2011",
+  "favourites_count": 3410,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 73672,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/998778930906652672/qjzp2cdw_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/998778930906652672/qjzp2cdw_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/324114351/1526962526",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "F58EA8",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "7AC3EE",
+  "profile_text_color": "3D1957",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,115 @@
+{
+ "created_at": "Mon Apr 15 19:58:07 +0000 2013",
+ "id": 323887984938188803,
+ "id_str": "323887984938188803",
+ "full_text": "@ANew92 so sad! #prayforboston",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  30
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "prayforboston",
+    "indices": [
+     16,
+     30
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "anew92",
+    "name": "Alex nowe",
+    "id": 3114176581,
+    "id_str": "3114176581",
+    "indices": [
+     0,
+     7
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 323887780419731456,
+ "in_reply_to_status_id_str": "323887780419731456",
+ "in_reply_to_user_id": 40937731,
+ "in_reply_to_user_id_str": "40937731",
+ "in_reply_to_screen_name": "thealexnewell",
+ "user": {
+  "id": 225563947,
+  "id_str": "225563947",
+  "name": "mari",
+  "screen_name": "mybellana",
+  "location": "eng - pt",
+  "description": "hopelessly devoted to swanqueen",
+  "url": "https://t.co/eY1O555a7M",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/eY1O555a7M",
+      "expanded_url": "https://twitter.com/mybellana/status/860700864163569664",
+      "display_url": "twitter.com/mybellana/stat\u2026",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1565,
+  "friends_count": 175,
+  "listed_count": 31,
+  "created_at": "Sat Dec 11 22:13:11 +0000 2010",
+  "favourites_count": 308,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 92767,
+  "lang": "pt",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/998045620123328513/MOO1LvSs_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/998045620123328513/MOO1LvSs_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/225563947/1526788080",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "000000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FAFAFA",
+  "profile_text_color": "3D1957",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

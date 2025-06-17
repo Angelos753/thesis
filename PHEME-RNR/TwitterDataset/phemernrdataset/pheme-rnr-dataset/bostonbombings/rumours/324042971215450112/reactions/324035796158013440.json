@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 05:45:28 +0000 2013",
+ "id": 324035796158013440,
+ "id_str": "324035796158013440",
+ "full_text": "@alexirob THIS IS SUCH A HORRIFIC TRAGEDY, JUST HATE ANYTHING LIKE THIS HAPPENING \ud83d\ude22\ud83d\ude14\ud83d\udc4e",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  85
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "alexirob",
+    "name": "cosplaymom99",
+    "id": 70321417,
+    "id_str": "70321417",
+    "indices": [
+     0,
+     9
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324035206132678657,
+ "in_reply_to_status_id_str": "324035206132678657",
+ "in_reply_to_user_id": 70321417,
+ "in_reply_to_user_id_str": "70321417",
+ "in_reply_to_screen_name": "alexirob",
+ "user": {
+  "id": 239178813,
+  "id_str": "239178813",
+  "name": "Nathan Modlin",
+  "screen_name": "NateModlin",
+  "location": "",
+  "description": "I love my dirt track racing and nascar. And country music :) God Bless Everyone",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 263,
+  "friends_count": 1083,
+  "listed_count": 1,
+  "created_at": "Mon Jan 17 01:00:20 +0000 2011",
+  "favourites_count": 2846,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 2961,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/738818975702745089/bExNzOxj_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/738818975702745089/bExNzOxj_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/239178813/1469826865",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

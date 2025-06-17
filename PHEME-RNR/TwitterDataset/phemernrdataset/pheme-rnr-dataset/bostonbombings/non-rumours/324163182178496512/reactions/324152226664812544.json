@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 13:28:07 +0000 2013",
+ "id": 324152226664812544,
+ "id_str": "324152226664812544",
+ "full_text": "@SashaaMalik vas happening? Love u princes xx",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  45
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "sashaamalik",
+    "name": "sasha malik",
+    "id": 466625578,
+    "id_str": "466625578",
+    "indices": [
+     0,
+     12
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324151460529057793,
+ "in_reply_to_status_id_str": "324151460529057793",
+ "in_reply_to_user_id": 466625578,
+ "in_reply_to_user_id_str": "466625578",
+ "in_reply_to_screen_name": "sashaamalik",
+ "user": {
+  "id": 325108690,
+  "id_str": "325108690",
+  "name": "yas",
+  "screen_name": "winchesterror",
+  "location": "",
+  "description": "[dean\u2019s voice] i think i\u2019m adorable \u264f\ufe0f",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1049,
+  "friends_count": 704,
+  "listed_count": 3,
+  "created_at": "Mon Jun 27 19:07:49 +0000 2011",
+  "favourites_count": 7101,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 52029,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/831614779026448385/S97UfcRU_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/831614779026448385/S97UfcRU_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/325108690/1512417321",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "000000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "F3F3F3",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

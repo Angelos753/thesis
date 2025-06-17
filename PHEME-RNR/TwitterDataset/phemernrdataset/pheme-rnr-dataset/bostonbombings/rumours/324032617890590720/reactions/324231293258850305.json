@@ -1,0 +1,102 @@
+{
+ "created_at": "Tue Apr 16 18:42:18 +0000 2013",
+ "id": 324231293258850305,
+ "id_str": "324231293258850305",
+ "full_text": "@EllenBarryNYT My god. What posesses people to cause so much tragedy? I hope evidence leads to bomb maker.#swiftjustice",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  119
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "swiftjustice",
+    "indices": [
+     106,
+     119
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "EllenBarryNYT",
+    "name": "Ellen Barry",
+    "id": 199766003,
+    "id_str": "199766003",
+    "indices": [
+     0,
+     14
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324028675202883585,
+ "in_reply_to_status_id_str": "324028675202883585",
+ "in_reply_to_user_id": 199766003,
+ "in_reply_to_user_id_str": "199766003",
+ "in_reply_to_screen_name": "EllenBarryNYT",
+ "user": {
+  "id": 935066064,
+  "id_str": "935066064",
+  "name": "Jeff Downs",
+  "screen_name": "jeffdsam05",
+  "location": "United States",
+  "description": "Explosive Detection Canine Handler at MSA Security. Retired Police Sergeant City of Burlingame.\nGreat moments are born from great opportunities...Herb Brooks.",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 85,
+  "friends_count": 737,
+  "listed_count": 1,
+  "created_at": "Thu Nov 08 18:00:30 +0000 2012",
+  "favourites_count": 680,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 1214,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/782707541935464448/vOXith4U_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/782707541935464448/vOXith4U_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/935066064/1475446993",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

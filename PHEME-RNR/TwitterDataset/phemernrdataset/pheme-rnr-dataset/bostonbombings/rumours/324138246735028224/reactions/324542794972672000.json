@@ -1,0 +1,93 @@
+{
+ "created_at": "Wed Apr 17 15:20:06 +0000 2013",
+ "id": 324542794972672000,
+ "id_str": "324542794972672000",
+ "full_text": "@WBCFliers ....go ask your neighbours across the street for some help. Your not only despised by most of America, but the entire world.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  135
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "WBCFliers",
+    "name": "WBC Press Releases",
+    "id": 83469247,
+    "id_str": "83469247",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+ "in_reply_to_status_id": 324138246735028224,
+ "in_reply_to_status_id_str": "324138246735028224",
+ "in_reply_to_user_id": 83469247,
+ "in_reply_to_user_id_str": "83469247",
+ "in_reply_to_screen_name": "WBCFliers",
+ "user": {
+  "id": 57771709,
+  "id_str": "57771709",
+  "name": "Robbo Cardosi",
+  "screen_name": "Rcbigjeep",
+  "location": "Fort Worth Texas",
+  "description": "Swimming against the current",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 28,
+  "friends_count": 200,
+  "listed_count": 0,
+  "created_at": "Fri Jul 17 22:06:42 +0000 2009",
+  "favourites_count": 0,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 68,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3359536777/92435d59c227c4ed36e511291f5dfde6_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3359536777/92435d59c227c4ed36e511291f5dfde6_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/57771709/1362934353",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

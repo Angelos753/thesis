@@ -1,0 +1,94 @@
+{
+ "created_at": "Mon Apr 15 20:56:09 +0000 2013",
+ "id": 323902589542477825,
+ "id_str": "323902589542477825",
+ "full_text": "@th3j35t3r respect for that",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  27
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "th3j35t3r",
+    "name": "J\u039eS\u0166\u039eR \u272a \u0394C\u0166U\u0394L\u00b3\u00b3\u00ba\u00b9",
+    "id": 97994396,
+    "id_str": "97994396",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+ "in_reply_to_status_id": 323899432305295360,
+ "in_reply_to_status_id_str": "323899432305295360",
+ "in_reply_to_user_id": 97994396,
+ "in_reply_to_user_id_str": "97994396",
+ "in_reply_to_screen_name": "th3j35t3r",
+ "user": {
+  "id": 28178932,
+  "id_str": "28178932",
+  "name": "DieLange",
+  "screen_name": "Dielange76",
+  "location": "Haarlem",
+  "description": "Scherp, kritisch, geinteresseerd in alles, bedrijfskundige, Schiphol, management, (hater van bios met woorden als : omdenker, verbinder etc etc) #longterm all",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 242,
+  "friends_count": 332,
+  "listed_count": 7,
+  "created_at": "Wed Apr 01 19:51:19 +0000 2009",
+  "favourites_count": 8,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 7308,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "642D8B",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2970887249/f8c489b97f957346428e62d6beb0c417_normal.gif",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2970887249/f8c489b97f957346428e62d6beb0c417_normal.gif",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/28178932/1546206680",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "FF0000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "7AC3EE",
+  "profile_text_color": "3D1957",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

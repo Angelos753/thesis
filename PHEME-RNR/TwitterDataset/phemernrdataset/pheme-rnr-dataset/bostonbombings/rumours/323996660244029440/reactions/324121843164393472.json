@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 11:27:23 +0000 2013",
+ "id": 324121843164393472,
+ "id_str": "324121843164393472",
+ "full_text": "@Dbricker09 you still white ?\ud83d\ude48\ud83d\ude4a\ud83d\ude02",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  32
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Dbricker09",
+    "name": "David Bricker",
+    "id": 472009119,
+    "id_str": "472009119",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 324116734443393025,
+ "in_reply_to_status_id_str": "324116734443393025",
+ "in_reply_to_user_id": 472009119,
+ "in_reply_to_user_id_str": "472009119",
+ "in_reply_to_screen_name": "Dbricker09",
+ "user": {
+  "id": 40109452,
+  "id_str": "40109452",
+  "name": "HIM",
+  "screen_name": "WORLDWIDEMEEK",
+  "location": "rest easy choppy&shamel",
+  "description": "westchesteruniversity PA / LA XO 717 @thetakeoverXXL",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 22978,
+  "friends_count": 17946,
+  "listed_count": 48,
+  "created_at": "Thu May 14 22:55:42 +0000 2009",
+  "favourites_count": 39872,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 138337,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1098897872211324928/BxeB4ZuA_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098897872211324928/BxeB4ZuA_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/40109452/1551500172",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "2FC2EF",
+  "profile_sidebar_border_color": "181A1E",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

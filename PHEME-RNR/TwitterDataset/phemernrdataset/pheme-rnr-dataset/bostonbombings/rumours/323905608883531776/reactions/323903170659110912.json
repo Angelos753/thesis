@@ -1,0 +1,139 @@
+{
+ "created_at": "Mon Apr 15 20:58:28 +0000 2013",
+ "id": 323903170659110912,
+ "id_str": "323903170659110912",
+ "full_text": "\u201c@AdrianWhitsett: AP: Cell phone service has been shut down in Boston to prevent any remote detonation.\u201d Thanks, Adrian,.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  121
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "AdrianWhitsett",
+    "name": "ADRIAN WHITSETT",
+    "id": 93909870,
+    "id_str": "93909870",
+    "indices": [
+     1,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323902948906258436,
+ "in_reply_to_status_id_str": "323902948906258436",
+ "in_reply_to_user_id": 93909870,
+ "in_reply_to_user_id_str": "93909870",
+ "in_reply_to_screen_name": "AdrianWhitsett",
+ "user": {
+  "id": 594202079,
+  "id_str": "594202079",
+  "name": "Ken Hudelson",
+  "screen_name": "HudelsonK",
+  "location": "Savannah, GA",
+  "description": "Veteran, Fire Fighter/EMT Husker football, Syracuse University basketball, New York Yankees, NY Knicks and Kansas City Chiefs..NASCAR",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 154,
+  "friends_count": 324,
+  "listed_count": 6,
+  "created_at": "Wed May 30 01:49:26 +0000 2012",
+  "favourites_count": 5221,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 2738,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/784088702721089536/hoNaDuuA_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/784088702721089536/hoNaDuuA_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/594202079/1475776290",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": {
+  "type": "Point",
+  "coordinates": [
+   41.15773884,
+   -96.14324236
+  ]
+ },
+ "coordinates": {
+  "type": "Point",
+  "coordinates": [
+   -96.14324236,
+   41.15773884
+  ]
+ },
+ "place": {
+  "id": "3cd4c18d3615bbc9",
+  "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+  "place_type": "admin",
+  "name": "Iowa",
+  "full_name": "Iowa, USA",
+  "country_code": "US",
+  "country": "United States",
+  "contained_within": [],
+  "bounding_box": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      -96.6396669,
+      40.375437
+     ],
+     [
+      -90.140061,
+      40.375437
+     ],
+     [
+      -90.140061,
+      43.50102
+     ],
+     [
+      -96.6396669,
+      43.50102
+     ]
+    ]
+   ]
+  },
+  "attributes": {}
+ },
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 12:41:53 +0000 2013",
+ "id": 324140590071705600,
+ "id_str": "324140590071705600",
+ "full_text": "\"@LifeQuoties: Don't lie, don't cheat, and don't make promises you can't keep\"",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  78
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Lifequoties",
+    "name": "Facts",
+    "id": 1162561153,
+    "id_str": "1162561153",
+    "indices": [
+     1,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324013151853092865,
+ "in_reply_to_status_id_str": "324013151853092865",
+ "in_reply_to_user_id": 201885911,
+ "in_reply_to_user_id_str": "201885911",
+ "in_reply_to_screen_name": "ScienceAndJokes",
+ "user": {
+  "id": 576103065,
+  "id_str": "576103065",
+  "name": "jazen",
+  "screen_name": "JazenAbawag",
+  "location": "cdo x mnl",
+  "description": "choose kindness and laugh often",
+  "url": "https://t.co/YL64Sedee2",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/YL64Sedee2",
+      "expanded_url": "https://www.instagram.com/iamjazeen_26/",
+      "display_url": "instagram.com/iamjazeen_26/",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1003,
+  "friends_count": 525,
+  "listed_count": 5,
+  "created_at": "Thu May 10 07:15:19 +0000 2012",
+  "favourites_count": 15288,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 26766,
+  "lang": "fil",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "ACDED6",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1103284401247477761/w7s4SFzM_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103284401247477761/w7s4SFzM_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/576103065/1551875552",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "038543",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "F6F6F6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

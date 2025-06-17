@@ -1,0 +1,182 @@
+{
+ "created_at": "Tue Apr 16 01:53:08 +0000 2013",
+ "id": 323977324494221313,
+ "id_str": "323977324494221313",
+ "full_text": "\u201c@FiftyFiftyOdds: Swag / NOT Swag http://t.co/q9t6fO4nt5\u201d @hoelle50",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  67
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "FiftyFiftyOdds",
+    "name": "50/50",
+    "id": 588752074,
+    "id_str": "588752074",
+    "indices": [
+     1,
+     16
+    ]
+   }
+  ],
+  "urls": [],
+  "media": [
+   {
+    "id": 323973046841008128,
+    "id_str": "323973046841008128",
+    "indices": [
+     34,
+     56
+    ],
+    "media_url": "http://pbs.twimg.com/media/BH77xQXCYAAHvzb.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/BH77xQXCYAAHvzb.jpg",
+    "url": "http://t.co/q9t6fO4nt5",
+    "display_url": "pic.twitter.com/q9t6fO4nt5",
+    "expanded_url": "https://twitter.com/FiftyFiftyOdds/status/323973046836813824/photo/1",
+    "type": "photo",
+    "sizes": {
+     "thumb": {
+      "w": 150,
+      "h": 150,
+      "resize": "crop"
+     },
+     "medium": {
+      "w": 500,
+      "h": 613,
+      "resize": "fit"
+     },
+     "large": {
+      "w": 500,
+      "h": 613,
+      "resize": "fit"
+     },
+     "small": {
+      "w": 500,
+      "h": 613,
+      "resize": "fit"
+     }
+    },
+    "source_status_id": 323973046836813824,
+    "source_status_id_str": "323973046836813824",
+    "source_user_id": 588752074,
+    "source_user_id_str": "588752074"
+   }
+  ]
+ },
+ "extended_entities": {
+  "media": [
+   {
+    "id": 323973046841008128,
+    "id_str": "323973046841008128",
+    "indices": [
+     34,
+     56
+    ],
+    "media_url": "http://pbs.twimg.com/media/BH77xQXCYAAHvzb.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/BH77xQXCYAAHvzb.jpg",
+    "url": "http://t.co/q9t6fO4nt5",
+    "display_url": "pic.twitter.com/q9t6fO4nt5",
+    "expanded_url": "https://twitter.com/FiftyFiftyOdds/status/323973046836813824/photo/1",
+    "type": "photo",
+    "sizes": {
+     "thumb": {
+      "w": 150,
+      "h": 150,
+      "resize": "crop"
+     },
+     "medium": {
+      "w": 500,
+      "h": 613,
+      "resize": "fit"
+     },
+     "large": {
+      "w": 500,
+      "h": 613,
+      "resize": "fit"
+     },
+     "small": {
+      "w": 500,
+      "h": 613,
+      "resize": "fit"
+     }
+    },
+    "source_status_id": 323973046836813824,
+    "source_status_id_str": "323973046836813824",
+    "source_user_id": 588752074,
+    "source_user_id_str": "588752074",
+    "ext_alt_text": null
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323973046836813824,
+ "in_reply_to_status_id_str": "323973046836813824",
+ "in_reply_to_user_id": 588752074,
+ "in_reply_to_user_id_str": "588752074",
+ "in_reply_to_screen_name": "FiftyFiftyOdds",
+ "user": {
+  "id": 415238256,
+  "id_str": "415238256",
+  "name": "Meggo",
+  "screen_name": "duckydailey",
+  "location": "",
+  "description": "I like dogs and memes",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 411,
+  "friends_count": 271,
+  "listed_count": 0,
+  "created_at": "Fri Nov 18 02:37:26 +0000 2011",
+  "favourites_count": 10177,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 13155,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1034980348030017536/tHlAGWFK_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034980348030017536/tHlAGWFK_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/415238256/1533690722",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

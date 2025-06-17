@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 11:52:43 +0000 2013",
+ "id": 324128216111521792,
+ "id_str": "324128216111521792",
+ "full_text": "@Aaron_Musiic :) miss ya bro",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  28
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Aaron_Musiic",
+    "name": "Aaron_Musiic",
+    "id": 2549530291,
+    "id_str": "2549530291",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+ "in_reply_to_status_id": 324127749000278016,
+ "in_reply_to_status_id_str": "324127749000278016",
+ "in_reply_to_user_id": 939549535,
+ "in_reply_to_user_id_str": "939549535",
+ "in_reply_to_screen_name": "_aaronlevi",
+ "user": {
+  "id": 212258579,
+  "id_str": "212258579",
+  "name": "Juanita Francis",
+  "screen_name": "Juanita_Francis",
+  "location": "London, UK",
+  "description": "I LOVE GOD! I love people! I\u2019m just me\ud83d\udc51 \ud83d\udea8New Music\ud83d\udea8\ud83c\udfb6 Fall Afresh \ud83c\udfb6I Got My Wings EP\ud83c\udfb6",
+  "url": "https://t.co/VHvYA7sbvF",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/VHvYA7sbvF",
+      "expanded_url": "http://www.juanitafrancis.com",
+      "display_url": "juanitafrancis.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 6160,
+  "friends_count": 347,
+  "listed_count": 31,
+  "created_at": "Fri Nov 05 15:43:53 +0000 2010",
+  "favourites_count": 1109,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 33265,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/942629498729779200/hXMVS0Nf_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/942629498729779200/hXMVS0Nf_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/212258579/1508598439",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "EB1527",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "330F3D",
+  "profile_text_color": "592555",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

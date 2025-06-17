@@ -1,0 +1,102 @@
+{
+ "created_at": "Tue Apr 16 13:18:50 +0000 2013",
+ "id": 324149888889790465,
+ "id_str": "324149888889790465",
+ "full_text": "\u201c@Ericthomasbtc: If you're doing it right, the journey should be fun, not stressful. #Success\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  94
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Success",
+    "indices": [
+     85,
+     93
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "Ericthomasbtc",
+    "name": "Eric Thomas",
+    "id": 119068103,
+    "id_str": "119068103",
+    "indices": [
+     1,
+     15
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 324108056583602176,
+ "in_reply_to_status_id_str": "324108056583602176",
+ "in_reply_to_user_id": 119068103,
+ "in_reply_to_user_id_str": "119068103",
+ "in_reply_to_screen_name": "Ericthomasbtc",
+ "user": {
+  "id": 1319597923,
+  "id_str": "1319597923",
+  "name": "OffDutyRef",
+  "screen_name": "Feelforthegame",
+  "location": "",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 64,
+  "friends_count": 692,
+  "listed_count": 2,
+  "created_at": "Mon Apr 01 03:38:17 +0000 2013",
+  "favourites_count": 1184,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2933,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/896413154904875008/vsQ0T3o-_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/896413154904875008/vsQ0T3o-_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319597923/1364964974",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

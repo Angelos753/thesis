@@ -1,0 +1,103 @@
+{
+ "created_at": "Mon Apr 15 20:56:32 +0000 2013",
+ "id": 323902683549429760,
+ "id_str": "323902683549429760",
+ "full_text": "@SportsCenter @ESPNJoeyMac wise decisions.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  42
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "SportsCenter",
+    "name": "SportsCenter",
+    "id": 26257166,
+    "id_str": "26257166",
+    "indices": [
+     0,
+     13
+    ]
+   },
+   {
+    "screen_name": "ESPNJoeyMac",
+    "name": "@ESPNJoeyMac",
+    "id": 865023968205561856,
+    "id_str": "865023968205561856",
+    "indices": [
+     14,
+     26
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 323902233446068224,
+ "in_reply_to_status_id_str": "323902233446068224",
+ "in_reply_to_user_id": 26257166,
+ "in_reply_to_user_id_str": "26257166",
+ "in_reply_to_screen_name": "SportsCenter",
+ "user": {
+  "id": 374878388,
+  "id_str": "374878388",
+  "name": "cory smith",
+  "screen_name": "itsyaboycsmith",
+  "location": "",
+  "description": "Texas born, Texas raised if you dont like it GET THE FUCK OVER IT! Ayyy lemon shots..juss sayin",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 281,
+  "friends_count": 464,
+  "listed_count": 1,
+  "created_at": "Sat Sep 17 03:43:31 +0000 2011",
+  "favourites_count": 2332,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 6098,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/486784370259140608/ZVO7d1S8_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/486784370259140608/ZVO7d1S8_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/374878388/1398696384",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "009999",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

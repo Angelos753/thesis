@@ -1,0 +1,107 @@
+{
+ "created_at": "Mon Apr 15 20:58:16 +0000 2013",
+ "id": 323903118939156480,
+ "id_str": "323903118939156480",
+ "full_text": "@MaryAnnPetti Confirmed. Just announced by the police commissioner.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  67
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "MaryannPetti",
+    "name": "Maryann Petti",
+    "id": 769207697610858496,
+    "id_str": "769207697610858496",
+    "indices": [
+     0,
+     13
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+ "in_reply_to_status_id": 323902840395403264,
+ "in_reply_to_status_id_str": "323902840395403264",
+ "in_reply_to_user_id": 163473786,
+ "in_reply_to_user_id_str": "163473786",
+ "in_reply_to_screen_name": "MaryAnnBrody",
+ "user": {
+  "id": 204901030,
+  "id_str": "204901030",
+  "name": "Mel Choyce",
+  "screen_name": "melchoyce",
+  "location": "Boston, MA",
+  "description": "Boston-based designer, WordPress core contributor, and craft beer fan. I design stuff at @automattic.",
+  "url": "https://t.co/jNN1ib2mR3",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/jNN1ib2mR3",
+      "expanded_url": "http://choycedesign.com",
+      "display_url": "choycedesign.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 2904,
+  "friends_count": 434,
+  "listed_count": 307,
+  "created_at": "Tue Oct 19 18:22:07 +0000 2010",
+  "favourites_count": 31045,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 25437,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "352726",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1055488539545214979/DrTbD9-M_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055488539545214979/DrTbD9-M_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/204901030/1489188967",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "D02B55",
+  "profile_sidebar_border_color": "829D5E",
+  "profile_sidebar_fill_color": "99CC33",
+  "profile_text_color": "3E4415",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

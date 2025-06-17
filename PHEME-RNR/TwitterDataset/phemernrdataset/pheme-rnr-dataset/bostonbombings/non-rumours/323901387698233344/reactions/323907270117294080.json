@@ -1,0 +1,93 @@
+{
+ "created_at": "Mon Apr 15 21:14:45 +0000 2013",
+ "id": 323907270117294080,
+ "id_str": "323907270117294080",
+ "full_text": "@swaggycaptain Thank you :))",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  28
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "swaggycaptain",
+    "name": "unknown",
+    "id": 1353284210,
+    "id_str": "1353284210",
+    "indices": [
+     0,
+     14
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323901790577901569,
+ "in_reply_to_status_id_str": "323901790577901569",
+ "in_reply_to_user_id": 1353284210,
+ "in_reply_to_user_id_str": "1353284210",
+ "in_reply_to_screen_name": "swaggycaptain",
+ "user": {
+  "id": 279482637,
+  "id_str": "279482637",
+  "name": "Juliet",
+  "screen_name": "HeyIm_Belieber",
+  "location": " POLAND/ BIEBERWORLD",
+  "description": "My name is Julia. I have 18 years. My passion is dancing.  \u2661 DANCER \u2661BELIEBER                                               I love music \u2661 peace !",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 509,
+  "friends_count": 812,
+  "listed_count": 2,
+  "created_at": "Sat Apr 09 10:40:52 +0000 2011",
+  "favourites_count": 5343,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 16081,
+  "lang": "pl",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FAFAFA",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/279482637/1456834820",
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "FF691F",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": true,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

@@ -1,0 +1,105 @@
+{
+ "created_at": "Tue Apr 16 02:40:43 +0000 2013",
+ "id": 323989301161504768,
+ "id_str": "323989301161504768",
+ "full_text": "@BMacTV They are just so demented!!!! freaks",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  44
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "BMacTV",
+    "name": "Brian MacMillan",
+    "id": 18696568,
+    "id_str": "18696568",
+    "indices": [
+     0,
+     7
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323986920327745537,
+ "in_reply_to_status_id_str": "323986920327745537",
+ "in_reply_to_user_id": 18696568,
+ "in_reply_to_user_id_str": "18696568",
+ "in_reply_to_screen_name": "BMacTV",
+ "user": {
+  "id": 14975248,
+  "id_str": "14975248",
+  "name": "CeciCapenClayStudio",
+  "screen_name": "CeciCClayStudio",
+  "location": "Oregon",
+  "description": "Born and raised in Hawaii now living in Sisters Oregon and loving it.  I'm an artist working in clay.  Wheel throwing and handbuilding functional and raku.",
+  "url": "http://t.co/hadF5Da64Z",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/hadF5Da64Z",
+      "expanded_url": "http://www.CeciCapenClayStudio.etsy.com",
+      "display_url": "CeciCapenClayStudio.etsy.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 889,
+  "friends_count": 647,
+  "listed_count": 44,
+  "created_at": "Sun Jun 01 21:58:10 +0000 2008",
+  "favourites_count": 206,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2676,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "709397",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/657579567591231489/XM0XS8CC_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/657579567591231489/XM0XS8CC_normal.jpg",
+  "profile_image_extensions_alt_text": null,
+  "profile_link_color": "FF3300",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "A0C5C7",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

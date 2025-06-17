@@ -1,0 +1,127 @@
+{
+ "created_at": "Mon Apr 15 20:54:47 +0000 2013",
+ "id": 323902243843743744,
+ "id_str": "323902243843743744",
+ "full_text": "@SaimaMohsin The JFK Library incident was a fire. Not related to the marathon blasts, say news outlets. via @NhaAnsari",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  118
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "SaimaMohsin",
+    "name": "Saima Mohsin",
+    "id": 92503159,
+    "id_str": "92503159",
+    "indices": [
+     0,
+     12
+    ]
+   },
+   {
+    "screen_name": "NhaAnsari",
+    "name": "Neha Ansari",
+    "id": 808130958,
+    "id_str": "808130958",
+    "indices": [
+     108,
+     118
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+ "in_reply_to_status_id": 323901971822166018,
+ "in_reply_to_status_id_str": "323901971822166018",
+ "in_reply_to_user_id": 92503159,
+ "in_reply_to_user_id_str": "92503159",
+ "in_reply_to_screen_name": "SaimaMohsin",
+ "user": {
+  "id": 14196465,
+  "id_str": "14196465",
+  "name": "FurSid",
+  "screen_name": "fursid",
+  "location": "Karachi, Pakistan",
+  "description": "Photographer, experience designer  & somewhat a local guide. ENTP, -T\n\nOld Town, Karachi album: https://t.co/W03aTM5aJa",
+  "url": "https://t.co/uiqfXKT1Cm",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/uiqfXKT1Cm",
+      "expanded_url": "http://instagram.com/fursid",
+      "display_url": "instagram.com/fursid",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": [
+     {
+      "url": "https://t.co/W03aTM5aJa",
+      "expanded_url": "http://bit.ly/2DXdara",
+      "display_url": "bit.ly/2DXdara",
+      "indices": [
+       96,
+       119
+      ]
+     }
+    ]
+   }
+  },
+  "protected": false,
+  "followers_count": 9401,
+  "friends_count": 1425,
+  "listed_count": 236,
+  "created_at": "Sat Mar 22 10:16:41 +0000 2008",
+  "favourites_count": 13078,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 90584,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "D8DDA7",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1057912461326774272/EYgYxn_G_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057912461326774272/EYgYxn_G_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14196465/1540179691",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "179295",
+  "profile_sidebar_border_color": "557871",
+  "profile_sidebar_fill_color": "FE8E82",
+  "profile_text_color": "FBCB8D",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

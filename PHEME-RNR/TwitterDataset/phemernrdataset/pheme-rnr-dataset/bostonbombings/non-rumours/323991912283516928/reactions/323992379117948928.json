@@ -1,0 +1,128 @@
+{
+ "created_at": "Tue Apr 16 02:52:57 +0000 2013",
+ "id": 323992379117948928,
+ "id_str": "323992379117948928",
+ "full_text": "@WWEUniverse @WWE  https://t.co/jezz6SZaTz is that fake or real",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  63
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "WWEUniverse",
+    "name": "WWE Universe",
+    "id": 15290441,
+    "id_str": "15290441",
+    "indices": [
+     0,
+     12
+    ]
+   },
+   {
+    "screen_name": "WWE",
+    "name": "WWE",
+    "id": 7517222,
+    "id_str": "7517222",
+    "indices": [
+     13,
+     17
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "https://t.co/jezz6SZaTz",
+    "expanded_url": "https://twitter.com/WWEFactoids",
+    "display_url": "twitter.com/WWEFactoids",
+    "indices": [
+     19,
+     42
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323991744800776192,
+ "in_reply_to_status_id_str": "323991744800776192",
+ "in_reply_to_user_id": 15290441,
+ "in_reply_to_user_id_str": "15290441",
+ "in_reply_to_screen_name": "WWEUniverse",
+ "user": {
+  "id": 56123966,
+  "id_str": "56123966",
+  "name": "#OWW",
+  "screen_name": "MLeBlancA",
+  "location": "Canada",
+  "description": "",
+  "url": "https://t.co/LCH232kv6h",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/LCH232kv6h",
+      "expanded_url": "http://onlineworldofwrestling.com",
+      "display_url": "onlineworldofwrestling.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 240,
+  "friends_count": 2792,
+  "listed_count": 6,
+  "created_at": "Sun Jul 12 16:09:57 +0000 2009",
+  "favourites_count": 672,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 6389,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C9EBC1",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3235295502/7b2de4b106cede9d7e585f9e3c2e4144_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3235295502/7b2de4b106cede9d7e585f9e3c2e4144_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/56123966/1463192463",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0051B3",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 11:20:39 +0000 2013",
+ "id": 324120144894910464,
+ "id_str": "324120144894910464",
+ "full_text": "@angry_vet_ personally i wish Drones would be used to eliminate illegals crossing over from Mexico or Canada that would decrease illegals",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  137
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "angry_vet_",
+    "name": "John",
+    "id": 373499448,
+    "id_str": "373499448",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324119558715752448,
+ "in_reply_to_status_id_str": "324119558715752448",
+ "in_reply_to_user_id": 373499448,
+ "in_reply_to_user_id_str": "373499448",
+ "in_reply_to_screen_name": "angry_vet_",
+ "user": {
+  "id": 33864842,
+  "id_str": "33864842",
+  "name": "\uf8ff \u03c0",
+  "screen_name": "JVC341",
+  "location": "-Home is Texas- \ud835\udc13\ud835\udc30\ud835\udc1e\ud835\udc1e\ud835\udc2d\ud835\udc2c \ud835\udc00\ud835\udc2b\ud835\udc1e \ud835\udc0c\ud835\udc32 \ud835\udc0e\ud835\udc30\ud835\udc27",
+  "description": "#OiFIII Iraq Afghanistan #OEF  @USMC #Veteran OCONUS follw'ed by @MarkGeistSWP @TomCruise   @RealJamesWoods @IsraelinNewYork @MichelleMalkin   @KristySwansonXO",
+  "url": "http://t.co/iy0rzYIBlL",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/iy0rzYIBlL",
+      "expanded_url": "http://www.somalicruises.com/",
+      "display_url": "somalicruises.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 6681,
+  "friends_count": 6680,
+  "listed_count": 248,
+  "created_at": "Tue Apr 21 10:10:05 +0000 2009",
+  "favourites_count": 27208,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 109001,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1085418052433440768/6OwDrRb4_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085418052433440768/6OwDrRb4_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33864842/1486124678",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "008000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 1,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

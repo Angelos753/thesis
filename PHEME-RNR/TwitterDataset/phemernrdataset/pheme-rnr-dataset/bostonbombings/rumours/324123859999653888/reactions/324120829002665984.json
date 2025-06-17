@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 11:23:22 +0000 2013",
+ "id": 324120829002665984,
+ "id_str": "324120829002665984",
+ "full_text": "@awfulalpha exactly.....it's never an Irishman or a Swede.....makes one think.....",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  82
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "awfulalpha",
+    "name": "The AwfulAlpha\u2122",
+    "id": 847864657,
+    "id_str": "847864657",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "in_reply_to_status_id": 324120515990126592,
+ "in_reply_to_status_id_str": "324120515990126592",
+ "in_reply_to_user_id": 847864657,
+ "in_reply_to_user_id_str": "847864657",
+ "in_reply_to_screen_name": "awfulalpha",
+ "user": {
+  "id": 373499448,
+  "id_str": "373499448",
+  "name": "John",
+  "screen_name": "angry_vet_",
+  "location": "Where NY, NJ and PA meet.",
+  "description": "An angry, retired Operation Desert Storm and Operation Iraqi Freedom ('03) combat Veteran. Patriot. Instagram: @angry_vet_ 500K+",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 30556,
+  "friends_count": 20078,
+  "listed_count": 324,
+  "created_at": "Wed Sep 14 17:51:23 +0000 2011",
+  "favourites_count": 122142,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 149195,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2651925174/a160caecd1f27f4f0b0bcafa1074d9aa_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2651925174/a160caecd1f27f4f0b0bcafa1074d9aa_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/373499448/1511473521",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

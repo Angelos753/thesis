@@ -1,0 +1,117 @@
+{
+ "created_at": "Tue Apr 16 00:39:48 +0000 2013",
+ "id": 323958869715976192,
+ "id_str": "323958869715976192",
+ "full_text": "RT \u201c@BloombergNews: Authorities find five additional, undetonated explosive devices in Boston: @WSJ\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  100
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "WSJ",
+    "name": "The Wall Street Journal",
+    "id": 3108351,
+    "id_str": "3108351",
+    "indices": [
+     95,
+     99
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323958111926886402,
+ "in_reply_to_status_id_str": "323958111926886402",
+ "in_reply_to_user_id": 34713362,
+ "in_reply_to_user_id_str": "34713362",
+ "in_reply_to_screen_name": "business",
+ "user": {
+  "id": 150224923,
+  "id_str": "150224923",
+  "name": "Simon Carswell",
+  "screen_name": "SiCarswell",
+  "location": "Dublin City, Ireland",
+  "description": "Irish journalist & author, Public Affairs Editor at @irishtimes scarswell{at}https://t.co/1Etncb0wHP. Past: Finance & Washington Correspondent",
+  "url": "https://t.co/OxlgMmYSXs",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/OxlgMmYSXs",
+      "expanded_url": "http://www.irishtimes.com",
+      "display_url": "irishtimes.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": [
+     {
+      "url": "https://t.co/1Etncb0wHP",
+      "expanded_url": "http://irishtimes.com",
+      "display_url": "irishtimes.com",
+      "indices": [
+       77,
+       100
+      ]
+     }
+    ]
+   }
+  },
+  "protected": false,
+  "followers_count": 23229,
+  "friends_count": 2196,
+  "listed_count": 469,
+  "created_at": "Mon May 31 11:55:52 +0000 2010",
+  "favourites_count": 5752,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 21045,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/829820657932312576/QhXaax5q_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/829820657932312576/QhXaax5q_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/150224923/1486677389",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 4,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

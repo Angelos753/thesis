@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 04:09:41 +0000 2013",
+ "id": 324011689282506753,
+ "id_str": "324011689282506753",
+ "full_text": "@bustin722 darkness is the absence of light. when people don't have any light in their life they just have darkness left.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  121
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "bustin722",
+    "name": "kevin bustin",
+    "id": 469807599,
+    "id_str": "469807599",
+    "indices": [
+     0,
+     10
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 324007811669438466,
+ "in_reply_to_status_id_str": "324007811669438466",
+ "in_reply_to_user_id": 469807599,
+ "in_reply_to_user_id_str": "469807599",
+ "in_reply_to_screen_name": "bustin722",
+ "user": {
+  "id": 59220646,
+  "id_str": "59220646",
+  "name": "Jay Bustin",
+  "screen_name": "Jay_Bustin",
+  "location": "Lowell, Massachusetts",
+  "description": "Downloading...",
+  "url": "https://t.co/eDo9M4mDqd",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/eDo9M4mDqd",
+      "expanded_url": "http://www.twitch.tv/LetsJays",
+      "display_url": "twitch.tv/LetsJays",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 132,
+  "friends_count": 151,
+  "listed_count": 0,
+  "created_at": "Wed Jul 22 19:24:05 +0000 2009",
+  "favourites_count": 516,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 4243,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1A1B1F",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1002932529572339714/ySpCoZrg_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002932529572339714/ySpCoZrg_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/59220646/1398196815",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1A8000",
+  "profile_sidebar_border_color": "181A1E",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

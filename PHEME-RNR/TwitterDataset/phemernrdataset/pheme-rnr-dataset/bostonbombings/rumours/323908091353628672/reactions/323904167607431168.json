@@ -1,0 +1,117 @@
+{
+ "created_at": "Mon Apr 15 21:02:26 +0000 2013",
+ "id": 323904167607431168,
+ "id_str": "323904167607431168",
+ "full_text": "@FreytagFilm @MNS1974 They initially said it wasn't related, but the latest is that it is related. Total confusion of course. :/",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  128
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "FreytagFilm",
+    "name": "Now: @FRYTG",
+    "id": 3304006654,
+    "id_str": "3304006654",
+    "indices": [
+     0,
+     12
+    ]
+   },
+   {
+    "screen_name": "MNS1974",
+    "name": "Michael N Sutton",
+    "id": 24874156,
+    "id_str": "24874156",
+    "indices": [
+     13,
+     21
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323903374393237506,
+ "in_reply_to_status_id_str": "323903374393237506",
+ "in_reply_to_user_id": 46650115,
+ "in_reply_to_user_id_str": "46650115",
+ "in_reply_to_screen_name": "FRYTG",
+ "user": {
+  "id": 18872216,
+  "id_str": "18872216",
+  "name": "brent",
+  "screen_name": "brentwgraham",
+  "location": "All is One",
+  "description": "Teeny tiny speck of thinking dust.",
+  "url": "https://t.co/LopsbIxgg0",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/LopsbIxgg0",
+      "expanded_url": "http://dreamtowncreative.com",
+      "display_url": "dreamtowncreative.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1265,
+  "friends_count": 1557,
+  "listed_count": 94,
+  "created_at": "Sun Jan 11 17:04:09 +0000 2009",
+  "favourites_count": 17011,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 37607,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "262626",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/847214934962225152/YIYznCvm_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/847214934962225152/YIYznCvm_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18872216/1529254716",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "2E2E2E",
+  "profile_text_color": "82ABAB",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

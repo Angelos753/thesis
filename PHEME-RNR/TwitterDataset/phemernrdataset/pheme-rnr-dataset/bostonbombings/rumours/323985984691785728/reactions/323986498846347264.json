@@ -1,0 +1,107 @@
+{
+ "created_at": "Tue Apr 16 02:29:35 +0000 2013",
+ "id": 323986498846347264,
+ "id_str": "323986498846347264",
+ "full_text": "@masslady06 I know some protester who are gonna get beat by Angels.",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  67
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "masslady06",
+    "name": "mass lady",
+    "id": 476019258,
+    "id_str": "476019258",
+    "indices": [
+     0,
+     11
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 323985719808905216,
+ "in_reply_to_status_id_str": "323985719808905216",
+ "in_reply_to_user_id": 476019258,
+ "in_reply_to_user_id_str": "476019258",
+ "in_reply_to_screen_name": "masslady06",
+ "user": {
+  "id": 18281751,
+  "id_str": "18281751",
+  "name": "Big Dave Little",
+  "screen_name": "bigdavelittle",
+  "location": "Earth",
+  "description": "Please be kinder to each other (I'm trying!!)\n#LittleCastleProductions #SeaBreezeStudios",
+  "url": "https://t.co/PBa07brP5F",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/PBa07brP5F",
+      "expanded_url": "https://www.facebook.com/david.little.7359447",
+      "display_url": "facebook.com/david.little.7\u2026",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1186,
+  "friends_count": 1992,
+  "listed_count": 34,
+  "created_at": "Sun Dec 21 08:58:11 +0000 2008",
+  "favourites_count": 34727,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 40717,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "352726",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/979516825946828800/BYe5Pf1b_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/979516825946828800/BYe5Pf1b_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18281751/1531170045",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "4A913C",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "05FFFB",
+  "profile_text_color": "3E4415",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

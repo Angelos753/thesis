@@ -1,0 +1,118 @@
+{
+ "created_at": "Mon Apr 15 20:46:37 +0000 2013",
+ "id": 323900187024179200,
+ "id_str": "323900187024179200",
+ "full_text": "Mais uma explos\u00e3o RT @nypost\n\nBreaking: Boston police confirm another explosion at JFK Library http://t.co/A7HHDIRUge   | PUMM***",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  129
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "nypost",
+    "name": "New York Post",
+    "id": 17469289,
+    "id_str": "17469289",
+    "indices": [
+     21,
+     28
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/A7HHDIRUge",
+    "expanded_url": "http://nyp.st/XNAkbX",
+    "display_url": "nyp.st/XNAkbX",
+    "indices": [
+     95,
+     117
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "in_reply_to_status_id": 323897277569695747,
+ "in_reply_to_status_id_str": "323897277569695747",
+ "in_reply_to_user_id": 17469289,
+ "in_reply_to_user_id_str": "17469289",
+ "in_reply_to_screen_name": "nypost",
+ "user": {
+  "id": 15103260,
+  "id_str": "15103260",
+  "name": "\ud83d\udcce Fablo Outerelo",
+  "screen_name": "FabloOuterelo",
+  "location": "Por um mundo melhor***",
+  "description": "***TWITTER OFICIAL***Pedreiro, branco, lesado, chato, semeador da disc\u00f3rdia e adorador de futilidades. Meu papel \u00e9 o higi\u00eanico.",
+  "url": "http://t.co/ktFaiKZB63",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/ktFaiKZB63",
+      "expanded_url": "https://twitter.com/fabloouterelo",
+      "display_url": "twitter.com/fabloouterelo",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 558,
+  "friends_count": 205,
+  "listed_count": 11,
+  "created_at": "Fri Jun 13 01:25:49 +0000 2008",
+  "favourites_count": 229,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 49729,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "BBBEBF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/872974195713552384/nj0UjUrT_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/872974195713552384/nj0UjUrT_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15103260/1397263362",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "0F1111",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "454545",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "regular"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}

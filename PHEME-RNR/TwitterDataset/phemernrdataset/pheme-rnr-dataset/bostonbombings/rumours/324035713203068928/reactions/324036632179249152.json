@@ -1,0 +1,94 @@
+{
+ "created_at": "Tue Apr 16 05:48:48 +0000 2013",
+ "id": 324036632179249152,
+ "id_str": "324036632179249152",
+ "full_text": "@gab1g5 agreed. are they really protesting",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  42
+ ],
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "gab1g5",
+    "name": "\uff24\uff2f\uff2c\uff30\uff28\uff29\uff2e\uff0c \uff22\uff35\uff34 \uff37\uff29\uff34\uff28 \uff21 \uff2c\uff2f\uff2e\uff27\uff25\uff32 \uff2e\uff21\uff2d\uff25",
+    "id": 16830567,
+    "id_str": "16830567",
+    "indices": [
+     0,
+     7
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": 324035968158019584,
+ "in_reply_to_status_id_str": "324035968158019584",
+ "in_reply_to_user_id": 16830567,
+ "in_reply_to_user_id_str": "16830567",
+ "in_reply_to_screen_name": "gab1g5",
+ "user": {
+  "id": 1020443600,
+  "id_str": "1020443600",
+  "name": "Ewa Fitness Society",
+  "screen_name": "williamsonnier",
+  "location": "Ewa Beach, HI",
+  "description": "taka taka taka",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1059,
+  "friends_count": 550,
+  "listed_count": 24,
+  "created_at": "Tue Dec 18 19:07:13 +0000 2012",
+  "favourites_count": 67758,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 11432,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": true,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1100238218333745152/PF8ZdJPt_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100238218333745152/PF8ZdJPt_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020443600/1552503410",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}

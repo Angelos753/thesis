@@ -1,0 +1,126 @@
+{
+ "created_at": "Tue Apr 16 00:42:46 +0000 2013",
+ "id": 323959616935452672,
+ "id_str": "323959616935452672",
+ "full_text": "\u201c@WSJbreakingnews: Officials found what believe are five additional undetonated explosive devices in #Boston area  http://t.co/vHfzARjcwF\u201d",
+ "truncated": false,
+ "display_text_range": [
+  0,
+  138
+ ],
+ "entities": {
+  "hashtags": [
+   {
+    "text": "Boston",
+    "indices": [
+     101,
+     108
+    ]
+   }
+  ],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "WSJbreakingnews",
+    "name": "WSJ Breaking News",
+    "id": 23484039,
+    "id_str": "23484039",
+    "indices": [
+     1,
+     17
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "url": "http://t.co/vHfzARjcwF",
+    "expanded_url": "http://on.wsj.com/15aYSxH",
+    "display_url": "on.wsj.com/15aYSxH",
+    "indices": [
+     115,
+     137
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": 323957465723056128,
+ "in_reply_to_status_id_str": "323957465723056128",
+ "in_reply_to_user_id": 23484039,
+ "in_reply_to_user_id_str": "23484039",
+ "in_reply_to_screen_name": "WSJbreakingnews",
+ "user": {
+  "id": 188720084,
+  "id_str": "188720084",
+  "name": "Agustina Barbaresi",
+  "screen_name": "ABarbaresi",
+  "location": "Madrid",
+  "description": "Responsable de @BYZness_Zeta. Antes coordin\u00e9 webs en @elEconomistaes y fui consultora en @silviaalbert | Tuits 100% personales, los RT son otro cantar",
+  "url": "https://t.co/YYpUIpGCn1",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/YYpUIpGCn1",
+      "expanded_url": "https://nuncasupetitular.wordpress.com/",
+      "display_url": "nuncasupetitular.wordpress.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1298,
+  "friends_count": 1021,
+  "listed_count": 65,
+  "created_at": "Thu Sep 09 12:42:44 +0000 2010",
+  "favourites_count": 892,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 2003,
+  "lang": "es",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "ACDED6",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1037378692668948480/XvTh3PpN_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037378692668948480/XvTh3PpN_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/188720084/1472814037",
+  "profile_image_extensions_alt_text": null,
+  "profile_banner_extensions_alt_text": null,
+  "profile_link_color": "FAB81E",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "F6F6F6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+}
