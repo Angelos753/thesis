@@ -19,7 +19,7 @@ def ensure_model_downloaded(local_path: str, drive_id: str):
     if not os.path.exists(local_path) or os.path.getsize(local_path) < 1000:
         print(f"\n🧰 Downloading model to {local_path} from Google Drive...")
         os.makedirs(os.path.dirname(local_path), exist_ok=True)
-        url = f"https://drive.google.com/uc?id={drive_id}"
+        url = f"https://drive.google.com/uc?id={drive_id}&confirm=t"
         gdown.download(url, local_path, quiet=False, fuzzy=True)
 
 
