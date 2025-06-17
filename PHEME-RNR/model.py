@@ -20,6 +20,7 @@ def ensure_model_downloaded(local_path: str, drive_id: str):
         print(f"\n🧰 Downloading model to {local_path} from Google Drive...")
         os.makedirs(os.path.dirname(local_path), exist_ok=True)
         url = f"https://drive.google.com/uc?id={drive_id}&confirm=t"
+        print(f"\n URL: {url}")
         gdown.download(url, local_path, quiet=False, fuzzy=True)
 
 
