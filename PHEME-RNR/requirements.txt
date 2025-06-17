@@ -1,5 +1,4 @@
 # Core requirements
-python
 transformers==4.31.0
 datasets==2.13.2
 torch==1.7.1
