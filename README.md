@@ -30,3 +30,5 @@ This repository contains the source code and materials for my master's thesis. I
    ```bash
    streamlit run app.py
    ```
+
+https://angelospetkaris.streamlit.app/
