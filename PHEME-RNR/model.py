@@ -41,13 +41,16 @@ def predict(text: str, model_type: str = "BERT", model_dir: str = "classificatio
     model_path = get_model_path(model_dir)
     model_file = os.path.join(model_path, "pytorch_model.bin")
 
+    # Download model if not present
     ensure_model_downloaded(model_file, DRIVE_FILE_ID)
 
-    if bert_tokenizer is None:
+    # Load tokenizer and BERT base model if not already loaded
+    if bert_tokenizer is None or bert_model is None:
         bert_tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
         bert_model = BertModel.from_pretrained("bert-base-uncased")
         bert_model.eval()
 
+    # Load classifier model
     if bert_classifier is None:
         bert_config = BertConfig.from_pretrained("bert-base-uncased")
         bert_classifier = BertForClassification.from_pretrained(
@@ -57,27 +60,14 @@ def predict(text: str, model_type: str = "BERT", model_dir: str = "classificatio
         )
         bert_classifier.eval()
 
-    if model_type == "BERT":
-        inputs = bert_tokenizer(text, return_tensors="pt", max_length=200, truncation=True, padding="max_length")
-        with torch.no_grad():
-            outputs = bert_classifier(**inputs)
-            logits = outputs[0]
-            predicted_class = torch.argmax(logits, dim=1).item()
-        return "Rumor" if predicted_class == 1 else "Not Rumor"
+    # Tokenize input text
+    inputs = bert_tokenizer(text, return_tensors="pt", max_length=200, truncation=True, padding="max_length")
 
-    embeddings = get_bert_embeddings(text)
-    max_len = 200
-    if embeddings.shape[0] > max_len:
-        embeddings = embeddings[:max_len]
-    else:
-        pad_len = max_len - embeddings.shape[0]
-        padding = np.full((pad_len, 768), -99., dtype=np.float32)
-        embeddings = np.vstack((embeddings, padding))
-    embeddings = np.expand_dims(embeddings, axis=0)
-
+    # Predict using classifier directly on tokenized input
     with torch.no_grad():
-        outputs = bert_classifier(torch.tensor(embeddings))
-        logits = outputs[0]
+        outputs = bert_classifier(**inputs)
+        logits = outputs.logits if hasattr(outputs, "logits") else outputs[0]
         predicted_class = torch.argmax(logits, dim=1).item()
 
     return "Rumor" if predicted_class == 1 else "Not Rumor"
+
